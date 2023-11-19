@@ -1,0 +1,1 @@
+![[CoC/The Pretty Things/Characters/_files/sephbin_Young_strappy_Marcello_Mastroianni_in_American_privates_636500ff-34a4-4d1d-8a2f-d8afd84dfc88.png]]

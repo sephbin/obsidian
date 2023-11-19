@@ -1,0 +1,6 @@
+![[sephbin_Richard_Corbens_drawing_depicting_a_Golden_Eldritch_bea_d5906492-21e2-480f-ba01-815d8addfcc1 1.png]]
+![[sephbin_Michael_Kalutas_illustration_depicting_a_Golden_Eldritc_2788dc51-5427-452e-9532-fc7d925ae470.png]]![[sephbin_A_technical_drawing_in_gold_on_black_paper_depicting_a__63144857-ee4d-403c-bd20-3166bc17e0f0.png]]![[sephbin_A_technical_drawing_in_gold_on_black_paper_depicting_a__8534e27f-5c56-4163-aa93-76ac005b0eb9.png]]
+![[sephbin_Edwin_Austin_Abbeys_painting_depicting_Golden_Eldritch__c7cab98f-cdcf-463a-92c1-cc4c59158ebf.png]]
+![[sephbin_Golden_Eldritch_beast_slime_mold_fungus_bacterial_jelly_e96dcaed-3c58-48b8-8df6-ab8a013e7bfd(2) 1.png]]
+![[sephbin_Golden_Eldritch_beast_slime_mold_liquid_metal_fractal_M_16836725-9383-4360-8fb7-9130c0bdd35b.png]]
+![[sephbin_Golden_Eldritch_beast_slime_mold_lava_lamp_fungus_bacte_7a5fdaf4-ca44-4869-baa1-8bba3a74913a.png]]

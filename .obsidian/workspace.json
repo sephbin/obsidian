@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,7 +148,54 @@
   },
   "active": "1902e5466a2864cf",
   "lastOpenFiles": [
+    "Random Stuff.md",
     "README.md",
-    "test.md"
+    "GM - Campaigns/Ultima Thule/9.9 Other/Pinboard/Adjectives.md",
+    "GM - Campaigns/Ultima Thule/9.9 Other/Pinboard/Toast of London Names.md",
+    "GM - Campaigns/Ultima Thule/9.9 Other/Pinboard/Ideas.md",
+    "GM - Campaigns/Ultima Thule/9.9 Other/Pinboard/Encounters.md",
+    "GM - Campaigns/The Pretty Things/Camiguin Island.md",
+    "GM - Campaigns/The Pretty Things/Aussie Weapons.md",
+    "GM - Campaigns/Ultima Thule/9.9 Other/Pinboard/AI Stuff.md",
+    "GM - Campaigns/Ultima Thule/9.9 Other/Media/640px-Johannesburg-tram-001.jpg",
+    "GM - Campaigns/Ultima Thule/1.0 Characters/Dr Formagia Cudge.md",
+    "GM - Campaigns/Ultima Thule/2.0 Lore/Magescience.md",
+    "GM - Campaigns/Ultima Thule/2.0 Lore/Liminal Particle.md",
+    "GM - Campaigns/Ultima Thule/2.0 Lore/Limina Expanse Amplifier mk.III.md",
+    "GM - Campaigns/Ultima Thule/1.0 Characters/psuedoLiminal Vending Machine 1.03.05.md",
+    "GM - Campaigns/Ultima Thule/1.0 Characters/Sladega A'Falious.md",
+    "GM - Campaigns/Ultima Thule/1.0 Characters/Leon the Magpie.md",
+    "GM - Campaigns/Ultima Thule/1.0 Characters/Jenny Spasm.md",
+    "GM - Campaigns/Ultima Thule/2.0 Lore/Ultima-God.md",
+    "GM - Campaigns/Ultima Thule/2.0 Lore/Thule.md",
+    "GM - Campaigns/Ultima Thule/2.0 Lore/Scubworms.md",
+    "GM - Campaigns/Ultima Thule/2.0 Lore/Rhetoric District 22.md",
+    "GM - Campaigns/Ultima Thule/2.0 Lore/Proto-Gods.md",
+    "GM - Campaigns/Ultima Thule/Image.png.md",
+    "GM - Campaigns/Ultima Thule/Ultima Thule.md",
+    "GM - Campaigns/Ultima Thule/0.0 Adventures/The Sublime Run of the Tangerine Oroborus.md",
+    "test.md",
+    "GM - Campaigns/Blood on the Clocktower/Untitled.canvas",
+    "GM - Campaigns/The Pretty Things/sephbin_Virgil_Finlays_scratch_board_drawing_depicting_a_frame__b94ba7d7-eb78-4301-b6a7-02cc63f346f5.png",
+    "GM - Campaigns/The Pretty Things/sephbin_Tropical_philipines_ocean_village_with_mountain_in_the__81e002f9-fd70-4f00-9072-28582cbb2d11.png",
+    "GM - Campaigns/The Pretty Things/sephbin_portrait_of_a_Spanish_Catholic_inquisitor_by_Gerald_bro_2b55ad00-fa9a-41d8-af56-74315283ba0d.png",
+    "GM - Campaigns/The Pretty Things/sephbin_dungeon_room_with_catholic_symbols_adorning_the_walls_a_ea6cdceb-912d-4481-a499-d4802e5787e0.png",
+    "GM - Campaigns/The Pretty Things/Pretty Things Map - Solo.png",
+    "GM - Campaigns/The Pretty Things/Moonlight Serenade.mp3",
+    "GM - Campaigns/The Pretty Things/lucid-nightmare-by-tim-kulig-from-filmmusic-io.mp3",
+    "GM - Campaigns/The Pretty Things/Jungle - Day.mp3",
+    "Systems/Call of Cthulhu",
+    "GM - Campaigns/Blood on the Clocktower",
+    "GM - Campaigns/New folder",
+    "GM - Campaigns/The Pretty Things/Unsorted/ancient-basement-by-tim-kulig-from-filmmusic-io.mp3",
+    "GM - Campaigns/The Pretty Things/Unsorted/🌴 Ocean Ambience.mp3",
+    "GM - Campaigns/The Pretty Things/Unsorted",
+    "PL - Campaigns/Rise of the Living God",
+    "Systems/BRP/System/Character Creation/Character Creation.canvas",
+    "GM - Campaigns/The Pretty Things/_files/Philippine_long-tailed_macaque.jpg",
+    "GM - Campaigns/The Pretty Things/_files/learn-wanted-these-men-to-fight-7530096.jpg",
+    "GM - Campaigns/The Pretty Things/Monsters/_files/sephbin_Richard_Corbens_drawing_depicting_a_shinning_golden_ski_ab6f5b08-6eaf-4acf-9da1-8d9d4bb549af.png",
+    "GM - Campaigns/The Pretty Things/Monsters/_files/sephbin_Richard_Corbens_drawing_depicting_a_Golden_Eldritch_bea_d5906492-21e2-480f-ba01-815d8addfcc1.png",
+    "GM - Campaigns/The Pretty Things/The Pretty Things.canvas"
   ]
 }

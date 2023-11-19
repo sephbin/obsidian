@@ -1,0 +1,1 @@
+ceil(CON+SIZ/2)

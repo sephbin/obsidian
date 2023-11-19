@@ -1,0 +1,1 @@
+![[sephbin_Kurtwood_Smith_in_an_American_Sergeants_costume_bushy_m_375855e9-aaca-4c45-bba6-09cbf0155025.png]]

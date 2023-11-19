@@ -1,0 +1,1 @@
+Miike Colliery - Miyanohara Pit - https://en.wikipedia.org/wiki/Miike_coal_mine

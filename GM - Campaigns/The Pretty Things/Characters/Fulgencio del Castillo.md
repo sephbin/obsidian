@@ -1,0 +1,2 @@
+![[GM - Campaigns/The Pretty Things/Characters/_files/sephbin_portrait_of_a_Spanish_Catholic_inquisitor_by_Gerald_bro_2b55ad00-fa9a-41d8-af56-74315283ba0d.png]]
+## Roman Catholic Church - Bishop / Exorcist

@@ -1,0 +1,1 @@
+![[CoC/The Pretty Things/Characters/_files/sephbin_older_Australian_Sergeant_grey_hair_side_burns_bushy_mo_862dcb26-e29e-4b68-9ed2-1f5cb16098d9.png]]
