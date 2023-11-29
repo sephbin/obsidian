@@ -15,8 +15,8 @@
               "state": {
                 "file": "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Narrative Map.canvas",
                 "viewState": {
-                  "x": 2654.676674150387,
-                  "y": 418.9684983869492,
+                  "x": 2640.652552940248,
+                  "y": 278.7272862855556,
                   "zoom": -1.4879103704422096
                 }
               }
@@ -159,7 +159,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "609705c381d1907b",
+  "active": "d208f38cd8a0d42c",
   "lastOpenFiles": [
     "directory.json",
     "GM - Campaigns/Ultima Thule/1.0 Characters/Dr Formagia Cudge.md",
