@@ -19,11 +19,19 @@ for root, dirs, files in os.walk(".", topdown=False):
 					yamlt = contents.split("---\n")[1]
 					yamlt = yaml.safe_load(yamlt)
 					#print(yamlt)
+				sublocation = None
+				for tag in yamlt["tags"]:
+					if tag not in ["character"]: continue
+					sublocation = "1.0 Characters"
 				for tag in yamlt["tags"]:
 					if tag not in lut: continue
 					newlocation = lut[tag]
+					if sublocation:
+						newlocation = os.path.join(newlocation,sublocation)
 					print(fileloc, newlocation)
 					try:	shutil.move(fileloc, newlocation)
 					except Exception as e:	print(e)
+				
+
 
 		except: pass
