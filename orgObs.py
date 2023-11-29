@@ -9,17 +9,20 @@ for root, dirs, files in os.walk(".", topdown=False):
 	#print(root, dirs, files)
 
 	for file in files:
-		if file.endswith(".md") and "Pool" in file:
-			#print(root, dirs,file)
-			with open(os.path.join(root,file),"r") as file:
-				contents = file.read()
-				if "---\n" not in contents: continue
-				yamlt = contents.split("---\n")[1]
-				yamlt = yaml.safe_load(yamlt)
-				print(yamlt)
-				for tag in yamlt["tags"]:
-					if tag not in lut: continue
-					newlocation = lut[tag]
-					print(newlocation)
-
-				break
+		try:
+			if file.endswith(".md"):
+				#print(root, dirs,file)
+				fileloc = os.path.join(root,file)
+				with open(fileloc,"r", encoding="utf-8") as file:
+					contents = file.read()
+					if "---\n" not in contents: continue
+					yamlt = contents.split("---\n")[1]
+					yamlt = yaml.safe_load(yamlt)
+					print(yamlt)
+					for tag in yamlt["tags"]:
+						if tag not in lut: continue
+						newlocation = lut[tag]
+						print(fileloc, newlocation)
+						try:	shutil.move(fileloc, newlocation)
+						except:	pass
+		except: pass
