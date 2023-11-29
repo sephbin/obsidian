@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Grasshopper 1.0.0, Redback Plugin. SVG Version: 6.00 Build 0) Made by Andrew Butler at Cox Architecture -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+width="420.0mm" height="297.0mm" viewBox="0 0 420.0 297.0" xml:space="preserve">
+<style type="text/css">
+.curve{
+fill:None;
+stroke:#000;
+stroke-width:0.05px;
+stroke-linecap:round;
+}
+.thick-hatch{
+stroke-width:0.1px;
+}
+.bold-hatch{
+stroke-width:0.2px;
+}
+.thin-hatch{
+stroke-width:0.025px;
+}
+.thick-road{
+stroke-width:0.8px;
+}
+</style>
+<polygon points="126.21,256.23 126.21,262.90 150.15,262.90 150.15,256.23" />
+<polygon points="174.09,256.23 174.09,262.90 198.03,262.90 198.03,256.23" />
+<polygon points="221.97,256.23 221.97,262.90 245.91,262.90 245.91,256.23" />
+<polygon points="269.85,256.23 269.85,262.90 293.79,262.90 293.79,256.23" />
+<polygon points="102.27,232.29 95.60,232.29 95.60,208.35 102.27,208.35" />
+<polygon points="102.27,184.41 95.60,184.41 95.60,160.47 102.27,160.47" />
+<polygon points="102.27,136.53 95.60,136.53 95.60,112.59 102.27,112.59" />
+<polygon points="102.27,88.65 95.60,88.65 95.60,64.71 102.27,64.71" />
+<polygon points="126.21,34.10 126.21,40.77 150.15,40.77 150.15,34.10" />
+<polygon points="174.09,34.10 174.09,40.77 198.03,40.77 198.03,34.10" />
+<polygon points="221.97,34.10 221.97,40.77 245.91,40.77 245.91,34.10" />
+<polygon points="269.85,34.10 269.85,40.77 293.79,40.77 293.79,34.10" />
+<polygon points="324.40,232.29 317.73,232.29 317.73,208.35 324.40,208.35" />
+<polygon points="324.40,184.41 317.73,184.41 317.73,160.47 324.40,160.47" />
+<polygon points="324.40,136.53 317.73,136.53 317.73,112.59 324.40,112.59" />
+<polygon points="324.40,88.65 317.73,88.65 317.73,64.71 324.40,64.71" />
+</svg>

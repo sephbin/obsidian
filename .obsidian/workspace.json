@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1902e5466a2864cf",
+            "id": "3430d9c3d26a0173",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Chat GPT/No Memory in AI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4dce683070c9432f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GM - Campaigns/Ultima Thule/1.0 Characters/Name Generator.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48bbcc62a6ab13f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ormond Sacker.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 400.5
   },
   "right": {
     "id": "eb2f03f0bf4e0b9a",
@@ -85,11 +110,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Ormond Sacker.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Ormond Sacker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +150,26 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Ormond Sacker.md"
+              }
+            }
+          },
+          {
+            "id": "49112fa5180f793c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,56 +181,97 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1902e5466a2864cf",
+  "floating": {
+    "id": "f604b8a5a61c8775",
+    "type": "floating",
+    "children": [
+      {
+        "id": "63badb5d3b5d6a5f",
+        "type": "window",
+        "children": [
+          {
+            "id": "99632be924aedbca",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1902e5466a2864cf",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Narrative Map.canvas",
+                    "viewState": {
+                      "x": 2834.3873210189117,
+                      "y": 341.8643361779251,
+                      "zoom": -1.3867725922947938
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1015,
+        "y": 251,
+        "width": 600,
+        "height": 600,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "48bbcc62a6ab13f2",
   "lastOpenFiles": [
-    "Random Stuff.md",
-    "README.md",
-    "GM - Campaigns/Ultima Thule/9.9 Other/Pinboard/Adjectives.md",
     "GM - Campaigns/Ultima Thule/9.9 Other/Pinboard/Toast of London Names.md",
-    "GM - Campaigns/Ultima Thule/9.9 Other/Pinboard/Ideas.md",
-    "GM - Campaigns/Ultima Thule/9.9 Other/Pinboard/Encounters.md",
-    "GM - Campaigns/The Pretty Things/Camiguin Island.md",
-    "GM - Campaigns/The Pretty Things/Aussie Weapons.md",
-    "GM - Campaigns/Ultima Thule/9.9 Other/Pinboard/AI Stuff.md",
-    "GM - Campaigns/Ultima Thule/9.9 Other/Media/640px-Johannesburg-tram-001.jpg",
-    "GM - Campaigns/Ultima Thule/1.0 Characters/Dr Formagia Cudge.md",
-    "GM - Campaigns/Ultima Thule/2.0 Lore/Magescience.md",
-    "GM - Campaigns/Ultima Thule/2.0 Lore/Liminal Particle.md",
-    "GM - Campaigns/Ultima Thule/2.0 Lore/Limina Expanse Amplifier mk.III.md",
-    "GM - Campaigns/Ultima Thule/1.0 Characters/psuedoLiminal Vending Machine 1.03.05.md",
-    "GM - Campaigns/Ultima Thule/1.0 Characters/Sladega A'Falious.md",
-    "GM - Campaigns/Ultima Thule/1.0 Characters/Leon the Magpie.md",
-    "GM - Campaigns/Ultima Thule/1.0 Characters/Jenny Spasm.md",
-    "GM - Campaigns/Ultima Thule/2.0 Lore/Ultima-God.md",
-    "GM - Campaigns/Ultima Thule/2.0 Lore/Thule.md",
-    "GM - Campaigns/Ultima Thule/2.0 Lore/Scubworms.md",
-    "GM - Campaigns/Ultima Thule/2.0 Lore/Rhetoric District 22.md",
-    "GM - Campaigns/Ultima Thule/2.0 Lore/Proto-Gods.md",
-    "GM - Campaigns/Ultima Thule/Image.png.md",
-    "GM - Campaigns/Ultima Thule/Ultima Thule.md",
+    "2023-11-29.md",
+    "Kikini Bamalam.md",
+    "Pool Turgid.md",
+    "Ormond Sacker.md",
+    "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Narrative Map.canvas",
+    "GM - Campaigns/Ultima Thule/4.0 Locations/THULE.3dm.rhl",
+    "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Gone with the Wind - a Pneumatic Paradox.md",
+    "psF24F.tmp",
+    "psAF2A.tmp",
+    "GM - Campaigns/Ultima Thule/1.0 Characters/Name Generator.md",
+    "Chat GPT/No Memory in AI.md",
+    "0_0-1.webp",
+    "0_0.webp",
+    "ps7315.tmp",
+    "0_2.webp",
+    "0_2 1.webp",
+    "0_3.webp",
     "GM - Campaigns/Ultima Thule/0.0 Adventures/The Sublime Run of the Tangerine Oroborus.md",
-    "test.md",
+    "Harris Spite.md",
+    "ps9918.tmp",
+    "Untitled.md",
+    "Aspect Central Pneumatic Exchange.md",
+    "GM - Campaigns/Ultima Thule/1.0 Characters/Jenny Spasm.md",
+    "Chat GPT/Ultima Thule.md",
+    "Chat GPT/The Pretty Things.md",
+    "Chat GPT/RPG Game Requested.md",
+    "Chat GPT/Timber Structures 101.md",
+    "Chat GPT/Lysaght Trimdek - Night Sky.md",
+    "Chat GPT/GPT 3.5 In use.md",
+    "Chat GPT/Cthulgu RPG character creation.md",
+    "Chat GPT/Acknowledge Country - Sydney.md",
+    "Chat GPT/Architectural Project Sectors.md",
+    "Chat GPT/New Chat 2.md",
+    "Chat GPT/Facade Door Schedule Revision.md",
+    "Chat GPT/New Chat.md",
+    "Overlook.md",
+    "Untitled",
+    "Chat GPT",
+    "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind",
+    "GM - Campaigns/Ultima Thule/4.0 Locations/RHI215A.tmp",
+    "GM - Campaigns/Ultima Thule/4.0 Locations/thule-roads.svg",
+    "GM - Campaigns/Ultima Thule/4.0 Locations/thule_road-names-holes.svg",
+    "GM - Campaigns/Ultima Thule/4.0 Locations/thule_road-names.svg",
+    "GM - Campaigns/Ultima Thule/4.0 Locations/thule_road_lines.svg",
+    "GM - Campaigns/Ultima Thule/4.0 Locations/thule_river-mask.svg",
+    "GM - Campaigns/Ultima Thule/4.0 Locations/THULE.gh",
     "GM - Campaigns/Blood on the Clocktower/Untitled.canvas",
-    "GM - Campaigns/The Pretty Things/sephbin_Virgil_Finlays_scratch_board_drawing_depicting_a_frame__b94ba7d7-eb78-4301-b6a7-02cc63f346f5.png",
-    "GM - Campaigns/The Pretty Things/sephbin_Tropical_philipines_ocean_village_with_mountain_in_the__81e002f9-fd70-4f00-9072-28582cbb2d11.png",
-    "GM - Campaigns/The Pretty Things/sephbin_portrait_of_a_Spanish_Catholic_inquisitor_by_Gerald_bro_2b55ad00-fa9a-41d8-af56-74315283ba0d.png",
-    "GM - Campaigns/The Pretty Things/sephbin_dungeon_room_with_catholic_symbols_adorning_the_walls_a_ea6cdceb-912d-4481-a499-d4802e5787e0.png",
-    "GM - Campaigns/The Pretty Things/Pretty Things Map - Solo.png",
-    "GM - Campaigns/The Pretty Things/Moonlight Serenade.mp3",
-    "GM - Campaigns/The Pretty Things/lucid-nightmare-by-tim-kulig-from-filmmusic-io.mp3",
-    "GM - Campaigns/The Pretty Things/Jungle - Day.mp3",
-    "Systems/Call of Cthulhu",
-    "GM - Campaigns/Blood on the Clocktower",
-    "GM - Campaigns/New folder",
-    "GM - Campaigns/The Pretty Things/Unsorted/ancient-basement-by-tim-kulig-from-filmmusic-io.mp3",
-    "GM - Campaigns/The Pretty Things/Unsorted/🌴 Ocean Ambience.mp3",
-    "GM - Campaigns/The Pretty Things/Unsorted",
-    "PL - Campaigns/Rise of the Living God",
     "Systems/BRP/System/Character Creation/Character Creation.canvas",
-    "GM - Campaigns/The Pretty Things/_files/Philippine_long-tailed_macaque.jpg",
-    "GM - Campaigns/The Pretty Things/_files/learn-wanted-these-men-to-fight-7530096.jpg",
-    "GM - Campaigns/The Pretty Things/Monsters/_files/sephbin_Richard_Corbens_drawing_depicting_a_shinning_golden_ski_ab6f5b08-6eaf-4acf-9da1-8d9d4bb549af.png",
-    "GM - Campaigns/The Pretty Things/Monsters/_files/sephbin_Richard_Corbens_drawing_depicting_a_Golden_Eldritch_bea_d5906492-21e2-480f-ba01-815d8addfcc1.png",
     "GM - Campaigns/The Pretty Things/The Pretty Things.canvas"
   ]
 }

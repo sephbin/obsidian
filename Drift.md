@@ -1,0 +1,1 @@
+A rim district to the bottom left. Drift is lower class and has a significantly higher crime rate.

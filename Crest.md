@@ -1,0 +1,1 @@
+Upper class, straddles clockwise the bifurcating parade.

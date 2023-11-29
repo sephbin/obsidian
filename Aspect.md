@@ -1,0 +1,1 @@
+A rim district split by the bifurcating road. Aspect is the first district to enter the portal each transition. It has a significant amount of magescience facilities.
