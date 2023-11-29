@@ -181,54 +181,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "f604b8a5a61c8775",
-    "type": "floating",
-    "children": [
-      {
-        "id": "63badb5d3b5d6a5f",
-        "type": "window",
-        "children": [
-          {
-            "id": "99632be924aedbca",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1902e5466a2864cf",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Narrative Map.canvas",
-                    "viewState": {
-                      "x": 2834.3873210189117,
-                      "y": 341.8643361779251,
-                      "zoom": -1.3867725922947938
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1015,
-        "y": 251,
-        "width": 600,
-        "height": 600,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "48bbcc62a6ab13f2",
   "lastOpenFiles": [
+    "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Narrative Map.canvas",
+    "Ormond Sacker.md",
     "GM - Campaigns/Ultima Thule/9.9 Other/Pinboard/Toast of London Names.md",
     "2023-11-29.md",
     "Kikini Bamalam.md",
     "Pool Turgid.md",
-    "Ormond Sacker.md",
-    "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Narrative Map.canvas",
     "GM - Campaigns/Ultima Thule/4.0 Locations/THULE.3dm.rhl",
     "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Gone with the Wind - a Pneumatic Paradox.md",
     "psF24F.tmp",
@@ -259,7 +219,6 @@
     "Chat GPT/New Chat 2.md",
     "Chat GPT/Facade Door Schedule Revision.md",
     "Chat GPT/New Chat.md",
-    "Overlook.md",
     "Untitled",
     "Chat GPT",
     "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind",
