@@ -89,7 +89,7 @@
 - [ ] Connie Plank
 - [ ] Jane Plough
 - [ ] Peggy Playwood
-- [ ] Eve Poldark
+- [x] Eve Poldark
 - [ ] Linda Praise
 - [ ] Michael Prance
 - [ ] Cliff Promise

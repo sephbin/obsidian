@@ -18,11 +18,12 @@ for root, dirs, files in os.walk(".", topdown=False):
 					if "---\n" not in contents: continue
 					yamlt = contents.split("---\n")[1]
 					yamlt = yaml.safe_load(yamlt)
-					print(yamlt)
-					for tag in yamlt["tags"]:
-						if tag not in lut: continue
-						newlocation = lut[tag]
-						print(fileloc, newlocation)
-						try:	shutil.move(fileloc, newlocation)
-						except:	pass
+					#print(yamlt)
+				for tag in yamlt["tags"]:
+					if tag not in lut: continue
+					newlocation = lut[tag]
+					print(fileloc, newlocation)
+					try:	shutil.move(fileloc, newlocation)
+					except Exception as e:	print(e)
+
 		except: pass
