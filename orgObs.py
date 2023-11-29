@@ -1,6 +1,6 @@
 import yaml
 
-import os
+import os, shutil
 
 
 lut = {"adv_gww":r"E:\Obsidian\obsidian\GM - Campaigns\Ultima Thule"}
@@ -17,4 +17,9 @@ for root, dirs, files in os.walk(".", topdown=False):
 				yamlt = contents.split("---\n")[1]
 				yamlt = yaml.safe_load(yamlt)
 				print(yamlt)
+				for tag in yamlt["tags"]:
+					if tag not in lut: continue
+					newlocation = lut[tag]
+					print(newlocation)
+
 				break
