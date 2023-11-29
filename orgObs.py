@@ -1,9 +1,11 @@
 import yaml
 
-import os, shutil
+import os, shutil, json
 
 
 lut = {"adv_gww":r"E:\Obsidian\obsidian\GM - Campaigns\Ultima Thule"}
+directory = []
+
 
 for root, dirs, files in os.walk(".", topdown=False):
 	#print(root, dirs, files)
@@ -35,3 +37,16 @@ for root, dirs, files in os.walk(".", topdown=False):
 
 
 		except: pass
+
+for root, dirs, files in os.walk(".", topdown=False):
+	for file in files:
+		willContinue = False
+		for ignore in [".git",".obsidian"]:
+			if ignore in root: willContinue = True
+		if willContinue: continue
+		fileloc = os.path.join(root,file)
+		directory.append(fileloc)
+print(directory)
+
+with open("directory.json", "w") as file:
+	json.dump(directory,file)
