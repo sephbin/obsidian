@@ -3,7 +3,7 @@ import yaml
 import os
 
 
-lut = {""}
+lut = {"adv_gww":r"E:\Obsidian\obsidian\GM - Campaigns\Ultima Thule"}
 
 for root, dirs, files in os.walk(".", topdown=False):
 	#print(root, dirs, files)
