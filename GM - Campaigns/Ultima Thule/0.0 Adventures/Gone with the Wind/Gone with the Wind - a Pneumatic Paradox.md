@@ -19,7 +19,7 @@ Who was effected
 	[[Aspect Central Pneumatic Exchange]]
 	[[Pneurocom]]
 	[[Wind Daemons]]
-	[[Threshel]]
+	[[Threshel Syndicate]]
 Who else is involved
 	
 When did this happen
