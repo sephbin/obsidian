@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cb6c828d97e74d41",
+        "id": "bc855b31cb295889",
         "type": "tabs",
         "children": [
           {
-            "id": "d208f38cd8a0d42c",
+            "id": "0217a71faa59fc52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Gone with the Wind - a Pneumatic Paradox.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Gone with the Wind - a Pneumatic Paradox.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Gone with the Wind - a Pneumatic Paradox.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Gone with the Wind - a Pneumatic Paradox.md"
+                "file": "README.md"
               }
             }
           },
@@ -156,8 +156,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d208f38cd8a0d42c",
+  "active": "0217a71faa59fc52",
   "lastOpenFiles": [
+    "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Gone with the Wind - a Pneumatic Paradox.md",
+    "README.md",
+    "GM - Campaigns/Ultima Thule/2.0 Lore/Pneurocom.md",
+    "Pneurocom.md",
     "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Narrative Map.canvas",
     "directory.json",
     "GM - Campaigns/Ultima Thule/1.0 Characters/Dr Formagia Cudge.md",
@@ -173,7 +177,6 @@
     "GM - Campaigns/Ultima Thule/1.0 Characters/Eve Poldark.md",
     "Eve Poldark.md",
     "Harris Spite.md",
-    "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Gone with the Wind - a Pneumatic Paradox.md",
     "Pool Turgid.md",
     "GM - Campaigns/Ultima Thule/Pool Turgid.md",
     "GM - Campaigns/Ultima Thule/Ormond Sacker.md",
@@ -184,7 +187,6 @@
     "Chat GPT/No Memory in AI.md",
     "orgObs.py",
     "2023-11-29.md",
-    "GM - Campaigns/Ultima Thule/9.9 Other/Pinboard/Toast of London Names.md",
     "GM - Campaigns/Ultima Thule/4.0 Locations/THULE.3dm.rhl",
     "psF24F.tmp",
     "psAF2A.tmp",
@@ -194,7 +196,6 @@
     "0_2.webp",
     "0_2 1.webp",
     "0_3.webp",
-    "GM - Campaigns/Ultima Thule/0.0 Adventures/The Sublime Run of the Tangerine Oroborus.md",
     "ps9918.tmp",
     "Untitled",
     "Chat GPT",

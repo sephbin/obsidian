@@ -12,12 +12,12 @@ Who caused the crime
 		[[Harris Spite]] - Corp Esp Agent
 	[[Daemon Rights Movement]]
 		[[Kikini Bamalam]] - Idealistic Terrorist
-	[[Ormond Sacker]] - Disgruntled Employee of [[Pneurocom]]
+	[[Ormond Sacker]] - Disgruntled Employee of [[GM - Campaigns/Ultima Thule/2.0 Lore/Pneurocom]]
 	Hired thieves
 		[[Blair Toast]] - Crew leader
 Who was effected
 	[[Aspect Central Pneumatic Exchange]]
-	[[Pneurocom]]
+	[[GM - Campaigns/Ultima Thule/2.0 Lore/Pneurocom|Pneurocom]]
 	[[Wind Daemons]]
 	[[Threshel Syndicate]]
 Who else is involved
