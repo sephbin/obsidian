@@ -25,16 +25,16 @@
 		{"id":"cccaa39dd7c5903c","type":"text","text":"Insurance","x":740,"y":-340,"width":250,"height":60,"color":"6"},
 		{"id":"74d7485010ce7581","type":"text","text":"Insurance Office","x":780,"y":838,"width":256,"height":60},
 		{"id":"c5506b53bb1d3dda","type":"text","text":"DRM HQ","x":179,"y":940,"width":256,"height":60},
-		{"id":"b4a4a760cc0ff211","type":"file","file":"GM - Campaigns/Ultima Thule/Kikini Bamalam.md","x":3260,"y":-620,"width":400,"height":553},
-		{"id":"4460517f6539b860","type":"file","file":"GM - Campaigns/Ultima Thule/Ormond Sacker.md","x":3260,"y":560,"width":400,"height":553},
-		{"id":"83c9671294cb439e","type":"file","file":"GM - Campaigns/Ultima Thule/Harris Spite.md","x":3260,"y":-20,"width":400,"height":540},
+		{"id":"b4a4a760cc0ff211","type":"file","file":"GM - Campaigns/Ultima Thule/1.0 Characters/Kikini Bamalam.md","x":3260,"y":-620,"width":400,"height":553},
+		{"id":"4460517f6539b860","type":"file","file":"GM - Campaigns/Ultima Thule/1.0 Characters/Ormond Sacker.md","x":3260,"y":560,"width":400,"height":553},
+		{"id":"83c9671294cb439e","type":"file","file":"GM - Campaigns/Ultima Thule/1.0 Characters/Harris Spite.md","x":3260,"y":-20,"width":400,"height":540},
 		{"id":"3298602d1e5d4c8d","type":"text","text":"Research Fascilities","x":480,"y":940,"width":256,"height":60},
 		{"id":"6275964cec8d6619","type":"text","text":"Liminal Expanse - Previous Planet","x":780,"y":940,"width":256,"height":60},
 		{"id":"043d7dea1a3cad21","type":"text","text":"Scrap Yard","x":179,"y":1040,"width":256,"height":60},
 		{"id":"e435c0edf6da1bc1","type":"text","text":"University","x":480,"y":1040,"width":256,"height":60},
 		{"id":"210a1692dfe65d75","type":"text","text":"Industrial Smelt works","x":780,"y":1040,"width":256,"height":60},
-		{"id":"ed11879e80a93673","type":"file","file":"GM - Campaigns/Ultima Thule/Pool Turgid.md","x":1950,"y":-620,"width":390,"height":553},
-		{"id":"bc0d61aabb8fd6db","type":"file","file":"GM - Campaigns/Ultima Thule/Eve Poldark.md","x":1950,"y":-20,"width":390,"height":420}
+		{"id":"ed11879e80a93673","type":"file","file":"GM - Campaigns/Ultima Thule/1.0 Characters/Pool Turgid.md","x":1950,"y":-620,"width":390,"height":553},
+		{"id":"bc0d61aabb8fd6db","type":"file","file":"GM - Campaigns/Ultima Thule/1.0 Characters/Eve Poldark.md","x":1950,"y":-20,"width":390,"height":540}
 	],
 	"edges":[
 		{"id":"c9e15b86f90acd96","fromNode":"719fbbb1b6f40953","fromSide":"bottom","toNode":"774c673b91a22c5b","toSide":"top","label":"🔎"},
