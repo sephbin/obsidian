@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Gone with the Wind - a Pneumatic Paradox.md",
+                "file": "Chat GPT/Ultima Thule.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Gone with the Wind - a Pneumatic Paradox.md",
+                "file": "Chat GPT/Ultima Thule.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Gone with the Wind - a Pneumatic Paradox.md",
+                "file": "Chat GPT/Ultima Thule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Gone with the Wind - a Pneumatic Paradox.md"
+                "file": "Chat GPT/Ultima Thule.md"
               }
             }
           },
@@ -158,8 +158,11 @@
   },
   "active": "0217a71faa59fc52",
   "lastOpenFiles": [
-    "README.md",
+    "GM - Campaigns/Ultima Thule/4.0 Locations/Thule.md",
+    "GM - Campaigns/Ultima Thule/4.0 Locations/Districts.md",
+    "GM - Campaigns/Ultima Thule/4.0 Locations/thule loop.png",
     "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Gone with the Wind - a Pneumatic Paradox.md",
+    "README.md",
     "GM - Campaigns/Ultima Thule/2.0 Lore/Pneurocom.md",
     "Pneurocom.md",
     "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Narrative Map.canvas",
@@ -184,9 +187,7 @@
     "Ormond Sacker.md",
     "Kikini Bamalam.md",
     "GM - Campaigns/Ultima Thule/Harris Spite.md",
-    "Chat GPT/No Memory in AI.md",
     "orgObs.py",
-    "2023-11-29.md",
     "GM - Campaigns/Ultima Thule/4.0 Locations/THULE.3dm.rhl",
     "psF24F.tmp",
     "psAF2A.tmp",
@@ -204,7 +205,6 @@
     "GM - Campaigns/Ultima Thule/4.0 Locations/thule_road-names-holes.svg",
     "GM - Campaigns/Ultima Thule/4.0 Locations/thule_road-names.svg",
     "GM - Campaigns/Ultima Thule/4.0 Locations/thule_road_lines.svg",
-    "GM - Campaigns/Ultima Thule/4.0 Locations/thule_river-mask.svg",
     "GM - Campaigns/Blood on the Clocktower/Untitled.canvas",
     "Systems/BRP/System/Character Creation/Character Creation.canvas",
     "GM - Campaigns/The Pretty Things/The Pretty Things.canvas"

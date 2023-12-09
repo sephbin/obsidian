@@ -4,7 +4,7 @@ tags:
 - lore
 ---
 # Pit Wall
-[[Thule]] is a city built in a mega-sized floating disk. The disk is not perfectly flat, Thule happens to have a "river", and it contains a wide metalic collar that runs around the circumference. This collar defines the pit wall which terminates at a natural topography of soil and sometimes stone.
+[[GM - Campaigns/Ultima Thule/2.0 Lore/Thule]] is a city built in a mega-sized floating disk. The disk is not perfectly flat, Thule happens to have a "river", and it contains a wide metalic collar that runs around the circumference. This collar defines the pit wall which terminates at a natural topography of soil and sometimes stone.
 The landscape is not flat, and some areas where the city proper meets the collar have dikes and various other landforms to allow travel to the edge. At other points the elevation difference is significant, and makeshift elevators and vertical transport devices have been installed.
 
 ## Magescience
