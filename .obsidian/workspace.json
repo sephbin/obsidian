@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bc855b31cb295889",
+        "id": "89c7e25df915c805",
         "type": "tabs",
         "children": [
           {
-            "id": "0217a71faa59fc52",
+            "id": "3ea4d69f8278a660",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chat GPT/Ultima Thule.md",
+                "file": "GM - Campaigns/Ultima Thule/4.0 Locations/Thule.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chat GPT/Ultima Thule.md",
+                "file": "GM - Campaigns/Ultima Thule/4.0 Locations/Thule.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chat GPT/Ultima Thule.md",
+                "file": "GM - Campaigns/Ultima Thule/4.0 Locations/Thule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chat GPT/Ultima Thule.md"
+                "file": "GM - Campaigns/Ultima Thule/4.0 Locations/Thule.md"
               }
             }
           },
@@ -156,9 +156,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0217a71faa59fc52",
+  "active": "3ea4d69f8278a660",
   "lastOpenFiles": [
+    "Axial Syndicate.md",
     "GM - Campaigns/Ultima Thule/4.0 Locations/Thule.md",
+    "Chat GPT/Ultima Thule.md",
     "GM - Campaigns/Ultima Thule/4.0 Locations/Districts.md",
     "GM - Campaigns/Ultima Thule/4.0 Locations/thule loop.png",
     "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Gone with the Wind - a Pneumatic Paradox.md",
@@ -185,8 +187,6 @@
     "GM - Campaigns/Ultima Thule/Ormond Sacker.md",
     "GM - Campaigns/Ultima Thule/Kikini Bamalam.md",
     "Ormond Sacker.md",
-    "Kikini Bamalam.md",
-    "GM - Campaigns/Ultima Thule/Harris Spite.md",
     "orgObs.py",
     "GM - Campaigns/Ultima Thule/4.0 Locations/THULE.3dm.rhl",
     "psF24F.tmp",

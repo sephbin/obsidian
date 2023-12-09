@@ -2,10 +2,10 @@ Thule is a unique city built on a massive, levitating disc. This disc, propelled
 
 **Key Features:**
 
-- **Nomadic:** Thule's constant movement fosters a sense of impermanence and transience. People cling to their cultural traditions but also readily adapt and integrate with others due to the necessity of cooperation.
-- **Resource Scarcity:** Thule's technology is a blend of advanced and primitive. While advanced technology exists, its use is heavily rationed due to resource limitations. This creates a unique dynamic where both high tech and low tech solutions co-exist.
+- **Nomadic:** Thule's constant movement fosters a sense of impermanence and transience. People cling to their cultural traditions but also readily adapt and integrate with others due to necessity.
+- **Resource Scarcity:** Thule's technology is a blend of advanced and primitive. While advanced technology exists, its use is heavily rationed due to resource limitations. This creates a unique dynamic where both high tech and low tech solutions co-exist. This split corelates between the rich and poor respectively.
 - **Cultural Diversity:** The diverse population of Thule results in a vibrant mix of customs, languages, and religions. This diversity can be a source of strength and unity, but it also creates friction and conflict.
-- **Political Instability:** Thule lacks a central government and instead operates through a complex network of factions and alliances. These factions vie for power and influence, often resorting to intrigue and manipulation.
+- **Political Instability:** Thule lacks a central government and instead operates through a complex network of oligarchs, factions and alliances called the [[Axial Syndicate]]. These factions vie for power and influence, often resorting to intrigue and manipulation.
 - **Unknown Destination:** The mystery surrounding Thule's destination and the force that propels it adds a layer of intrigue and uncertainty to the city's life. This uncertainty fuels both hope and despair among the populace.
 
 **Technology:**
