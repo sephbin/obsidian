@@ -24,7 +24,7 @@ There is currently major developments into the physics field of "Liminal Particl
 - **The Dream Architects:** Exploring the liminal space between dreams and reality, they believe the meta-cosmos can be shaped through collective dreaming. They practice elaborate sleep rituals and dreamsharing techniques to influence the course of Thule's journey.
 - **The Ghostlight Navigators:** Venerate the spirits of past planets consumed by Thule, believing they guide the city's path. They commune with the ghosts through mediums and shamans, seeking their wisdom and direction.
 - **The Techno-Shamans:** Blending technology and ancient rituals, they believe in manipulating the flow of energy through the city's infrastructure. They use advanced technology to perform rituals, heal the sick, and commune with the meta-cosmos.
-- **The Wanderers of the Void:** Rejecting any fixed belief system, they embrace the constant change and uncertainty of Thule's existence. They travel the city's underbelly and forgotten corners, seeking enlightenment through exploration and personal experience.
+- **The Wanderers of the Void:** Rejecting any fixed belief system, they embrace the constant change and uncertainty of Thulthe's existence. They travel the city's underbelly and forgotten corners, seeking enlightenment through exploration and personal experience.
 - [[The Weavers of Liminal Destiny]]
 ### Major  Philosophical Movements
 - **The Meta-Cosmopolitans:** Embracing the nomadic nature of Thule, they believe in constant exploration and adaptation to new environments. They advocate for open borders and cultural exchange, viewing Thule as a microcosm of the universe.
