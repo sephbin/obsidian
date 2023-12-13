@@ -15,7 +15,9 @@ There is currently major developments into the physics field of "Liminal Particl
 ### Political Factions
 
 - Progressivism
+	- A movement advocating for social reform, workers' rights, and progressive policies within the framework of Revachol's historical context.
 - Techno-Futurists
+	- Supporters of embracing advanced technology and scientific progress to reshape the future of Revachol, often at the expense of traditional values.
 - Anarchist Syndicalism
 - Cultural Restorationists
 - Meritocratic Reformers
