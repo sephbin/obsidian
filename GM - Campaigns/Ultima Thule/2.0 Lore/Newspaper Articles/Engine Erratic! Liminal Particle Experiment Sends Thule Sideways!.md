@@ -8,7 +8,7 @@ Chaos erupted as gravity played hopscotch across the city. Reports flooded in of
 
 "The experiment was designed with fail-safes!" Dr. Praxis protested amidst the cacophony, "But clearly, something went terribly wrong." He went on to explain that the liminal particles, notoriously unpredictable, may have interacted with the city's propulsion core, causing the uncontrolled spatial distortions.
 
-The Syndicate, Thule's governing body, has already launched an investigation, demanding answers and assurances that such an incident will not be repeated. Meanwhile, conspiracy theories run rampant in the bustling marketplace. Whispers of rogue Gremlins, disgruntled Engine Mages, and even divine intervention fill the air as thick as the scent of ozone after a dimensional hiccup.
+The Syndicate has already launched an investigation, demanding answers and assurances that such an incident will not be repeated. Meanwhile, conspiracy theories run rampant in the bustling marketplace. Whispers of rogue daemons, disgruntled engineers, and even divine intervention fill the air as thick as the scent of ozone after a dimensional hop.
 
 The question remains: can Thule, a city constantly teetering on the edge of the unknown, afford to gamble with the very fabric of its existence in the pursuit of scientific advancement? Or is this a cosmic wake-up call, reminding us that some things are best left untouched?
 
