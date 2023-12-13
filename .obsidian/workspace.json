@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Ascendancy.md",
+                "file": "Thule Cultural Defense.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Ascendancy.md",
+                "file": "Thule Cultural Defense.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Ascendancy.md",
+                "file": "Thule Cultural Defense.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Ascendancy.md"
+                "file": "Thule Cultural Defense.md"
               }
             }
           },
@@ -158,10 +158,10 @@
   },
   "active": "383a31d925e7e61d",
   "lastOpenFiles": [
+    "Thule Cultural Defense.md",
     "GM - Campaigns/Ultima Thule/Ultima Thule.md",
-    "Thule Public Servants Union.md",
-    "The Keepers.md",
     "The Ascendancy.md",
+    "Thule Public Servants Union.md",
     "Realpolitik Syndicate.md",
     "Axial Syndicate.md",
     "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Gone with the Wind - a Pneumatic Paradox.md",

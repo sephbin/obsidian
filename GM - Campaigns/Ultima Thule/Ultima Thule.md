@@ -17,4 +17,4 @@ There is currently major developments into the physics field of "Liminal Particl
 - [[Thule Public Servants Union]] - Bureaucratic Fatalism
 - [[Realpolitik Syndicate]] - Skeptic's Pragmatism
 - [[The Ascendancy]] - Techno-Futurists
-- [[The Keepers]] - Isolationist Traditionalists
+- [[Thule Cultural Defense]] - Isolationist Traditionalists
