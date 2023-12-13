@@ -234,7 +234,6 @@ Disco Elysium features a variety of political alignments and ideologies that you
 
 The political landscape in Disco Elysium is rich and multifaceted, and players have the freedom to engage with these ideologies in different ways, influencing the story and the protagonist's development. The game encourages exploration of various political perspectives and allows players to shape the character's political beliefs based on their choices and interactions.
 
-![User](https://lh3.googleusercontent.com/a/AItbvmnjE96Ga280F2qILHkDfK6keQ-k4adlVambvRI9=s96-c)
 
 Can you come up with 10 appropriate political alignments that work thematically with disco Elysium
 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "89c7e25df915c805",
+        "id": "38718436deafac3d",
         "type": "tabs",
         "children": [
           {
-            "id": "3ea4d69f8278a660",
+            "id": "383a31d925e7e61d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Conser",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,24 +157,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ea4d69f8278a660",
+  "active": "383a31d925e7e61d",
   "lastOpenFiles": [
-    "GM - Campaigns/Ultima Thule/2.0 Lore/Thule.md",
+    "The Keepers of Inevitability.md",
     "GM - Campaigns/Ultima Thule/Ultima Thule.md",
+    "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Gone with the Wind - a Pneumatic Paradox.md",
+    "Axial Syndicate.md",
+    "GM - Campaigns/Ultima Thule/4.0 Locations/Thule.md",
+    "Chat GPT/Ultima Thule.md",
+    "GM - Campaigns/Ultima Thule/2.0 Lore/Thule.md",
     "GM - Campaigns/Ultima Thule/WIP - Political Factions.md",
     "GM - Campaigns/Ultima Thule/2.0 Lore/Limina Expanse Amplifier mk.III.md",
     "Systems/BRP/Thule - Political Alignments.md",
     "Systems/BRP/Thule - BRP Optional Rule Checklist.md",
-    "GM - Campaigns/Ultima Thule/4.0 Locations/Thule.md",
     "GM - Campaigns/Ultima Thule/3.0 System/Alignment.md",
     "GM - Campaigns/Ultima Thule/9.9 Other/Pinboard/Adjectives.md",
     "GM - Campaigns/Ultima Thule/2.0 Lore/Rhetoric District 22.md",
     "GM - Campaigns/Ultima Thule/4.0 Locations/Generic City Locations.md",
     "GM - Campaigns/Ultima Thule/4.0 Locations/Districts.md",
-    "Axial Syndicate.md",
-    "Chat GPT/Ultima Thule.md",
     "GM - Campaigns/Ultima Thule/4.0 Locations/thule loop.png",
-    "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Gone with the Wind - a Pneumatic Paradox.md",
     "README.md",
     "GM - Campaigns/Ultima Thule/2.0 Lore/Pneurocom.md",
     "Pneurocom.md",
@@ -186,7 +188,6 @@
     "GM - Campaigns/Ultima Thule/1.0 Characters/Ormond Sacker.md",
     "GM - Campaigns/Ultima Thule/1.0 Characters/Name Generator.md",
     "GM - Campaigns/Ultima Thule/1.0 Characters/Leon the Magpie.md",
-    "GM - Campaigns/Ultima Thule/1.0 Characters/Kikini Bamalam.md",
     "orgObs.py",
     "GM - Campaigns/Ultima Thule/4.0 Locations/THULE.3dm.rhl",
     "psF24F.tmp",

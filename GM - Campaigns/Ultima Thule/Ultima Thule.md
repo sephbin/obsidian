@@ -13,4 +13,22 @@ There is currently major developments into the physics field of "Liminal Particl
 
 
 ### Political Factions
+#### [[Axial Syndicate]] - Oligarchs Syndicalism
+- **Leaders:** Powerful families, corporate executives, influential figures with control over key resources.
+- **Ideology:** Maintain the current power structure, prioritize resource acquisition and stability, use the Thule Syndicate as a façade for oligarchic rule.
+- **Methods:** Lobbying within the Syndicate, manipulating resource distribution, using private security forces to maintain order.
+- **Strengths:** Efficient resource management, access to technology and information, control over the infrastructure.
+- **Weaknesses:** Public resentment towards their influence, potential for internal power struggles, vulnerability to technological disruptions.
 
+#### [[The Keepers of Inevitability]] - Bureaucratic Fatalism
+- **Leaders:** High-ranking bureaucrats, seasoned officials, individuals who thrive within the system's complexities.
+- **Ideology:** Embrace the inherent chaos and inefficiency of bureaucracy, use it to their advantage, believe change is futile and the system is self-perpetuating.
+- **Methods:** Mastering the bureaucratic maze, exploiting loopholes and regulations, manipulating information flows.
+- **Strengths:** Deep understanding of the system, access to hidden knowledge and resources, adaptability to change.
+- **Weaknesses:** Public distrust and apathy, susceptibility to corruption and internal sabotage, lack of clear direction or vision.
+#### ?? - Skeptic's Pragmatism
+- **Leaders:** Resourceful individuals, skilled problem-solvers, those who focus on immediate solutions and practical outcomes.
+- **Ideology:** Dismiss grand ideologies as impractical, prioritize short-term solutions to pressing issues, adapt to the ever-changing landscape of Thule.
+- **Methods:** Negotiation and compromise, resourcefulness and ingenuity, temporary alliances based on mutual benefit.
+- **Strengths:** Flexibility and adaptability, ability to navigate complex situations, lack of ideological baggage.
+- **Weaknesses:** Short-sightedness and lack of long-term vision, susceptibility to manipulation by stronger factions, difficulty in inspiring public loyalty.
