@@ -1,6 +1,6 @@
-**By Lyra Vox, Interstellar Correspondent, The Thule Times**
+By Mustafa Fasili
 
-**Panic rippled across the levitating city of Thule like a rogue wave today as the Institute for Liminal Advancement's latest experiment went spectacularly sideways.** The test, designed to utilize the enigmatic properties of liminal particles for controlled space-time manipulation, instead resulted in a series of disconcerting shifts. Buildings tilted precariously, streets warped like funhouse mirrors, and citizens found themselves flung through the air like ragdolls caught in a celestial waltz.
+**Panic rippled across Thule like a rogue wave today as the Institute for Liminal Advancement's latest experiment went spectacularly sideways.** The test, designed to utilize the enigmatic properties of liminal particles for controlled space-time manipulation, instead resulted in a series of disconcerting shifts. Buildings tilted precariously, streets warped like funhouse mirrors, and citizens found themselves flung through the air like ragdolls caught in a celestial waltz.
 
 "One moment I was adjusting the resonance modulator," confessed Dr. Xenon Praxis, lead scientist on the project, his face pale and hair askew, "and the next, my workbench was halfway down the street!"
 
