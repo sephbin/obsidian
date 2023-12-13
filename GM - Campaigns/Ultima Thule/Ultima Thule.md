@@ -26,7 +26,7 @@ There is currently major developments into the physics field of "Liminal Particl
 - **Methods:** Mastering the bureaucratic maze, exploiting loopholes and regulations, manipulating information flows.
 - **Strengths:** Deep understanding of the system, access to hidden knowledge and resources, adaptability to change.
 - **Weaknesses:** Public distrust and apathy, susceptibility to corruption and internal sabotage, lack of clear direction or vision.
-#### ?? - Skeptic's Pragmatism
+#### [[Realpolitik Syndicate]] - Skeptic's Pragmatism
 - **Leaders:** Resourceful individuals, skilled problem-solvers, those who focus on immediate solutions and practical outcomes.
 - **Ideology:** Dismiss grand ideologies as impractical, prioritize short-term solutions to pressing issues, adapt to the ever-changing landscape of Thule.
 - **Methods:** Negotiation and compromise, resourcefulness and ingenuity, temporary alliances based on mutual benefit.
