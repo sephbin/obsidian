@@ -16,5 +16,5 @@ There is currently major developments into the physics field of "Liminal Particl
 - [[Axial Syndicate]] - Oligarchs Syndicalism
 - [[Thule Public Servants Union]] - Bureaucratic Fatalism
 - [[Realpolitik Syndicate]] - Skeptic's Pragmatism
-- [[The Ascendancy]] - Techno-Futurists
-- [[Thule Cultural Defense]] - Isolationist Traditionalists
+- [[Magescience Vanguard Federation]] - Techno-Futurists
+- [[Thule Cultural Defence Society]] - Isolationist Traditionalists
