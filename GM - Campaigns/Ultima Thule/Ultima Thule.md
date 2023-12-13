@@ -14,12 +14,6 @@ There is currently major developments into the physics field of "Liminal Particl
 
 ### Political Factions
 
-- **Conservatives:** Seek to preserve the traditions and cultures of their ancestors, often distrusting new technologies and ideas.
-- **Progressives:** Embrace change and innovation, believing that adapting to Thule's unique environment is key to survival.
-- **Technocrats:** Seek to control and utilize advanced technology to gain power and influence over the city.
-- **Mystics:** Focus on harnessing the power of magic and alchemy to understand and control Thule's destiny.
-- **Outlanders:** Recent refugees from ravaged planets who struggle to integrate into Thule's existing society.
-- 
 - Progressivism
 - Techno-Futurists
 - Anarchist Syndicalism
