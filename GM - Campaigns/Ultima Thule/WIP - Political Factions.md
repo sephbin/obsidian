@@ -1,0 +1,38 @@
+- Progressivism
+	- A movement advocating for social reform, workers' rights, and progressive policies within the framework of Revachol's historical context.
+- Techno-Futurists
+	- Supporters of embracing advanced technology and scientific progress to reshape the future of Revachol, often at the expense of traditional values.
+- Anarchist Syndicalism
+	- Believers in decentralized, worker-controlled industries, seeking to establish a society where labor unions and community councils hold significant power.
+- Cultural Restorationists
+	- Individuals dedicated to preserving and reviving Revachol's cultural heritage, emphasizing traditional values and historical pride.
+- Meritocratic Reformers
+	- Supporters of a merit-based system, striving to eliminate corruption and establish a fair society where success is based on individual abilities and achievements.
+- Nihilist Dissidents
+	- Those who reject established ideologies, promoting a nihilistic worldview that challenges existing social structures.
+- Egalitarian Humanists
+	- Advocates for equality, justice, and human rights, working towards a society where all individuals have equal opportunities and rights.
+- Isolationist Traditionalists
+	- Supporters of withdrawing from global affairs, focusing on internal stability and preserving traditional values.
+- Secular Rationalists
+	- Individuals committed to a secular state, advocating for the separation of church and state, and prioritizing reason and evidence-based decision-making.
+- Bureaucratic Fatalism
+	- Embracing the inefficiency and corruption of bureaucracy, adherents believe that change is impossible, and the system is designed to perpetuate chaos.
+- Nepotistic Oligarchy
+	- Advocates for the rule of a privileged few, promoting the idea that power and influence should be concentrated within well-connected elites.
+- Cynical Realpolitik
+	- Followers of this ideology believe that political decisions are driven solely by pragmatic considerations of power rather than ideals, dismissing lofty goals as mere rhetoric.
+- Opportunist Opportunism
+	- A political stance centered on exploiting situations for personal gain, adherents are opportunists who navigate chaos for their benefit.
+- Pessimistic Nihilism
+	- Rejecting the significance of political ideologies altogether, adherents believe that life is inherently meaningless, rendering political struggles futile.
+- Sarcastic Populism
+	- A mockery of populist movements, this alignment pretends to champion the common people while cynically exploiting their sentiments for personal gain.
+- Skeptic's Pragmatism
+	- Adherents focus on practical, short-term solutions, dismissing grand ideologies as impractical and emphasizing the importance of navigating the present.
+- Cynical Utopianism
+	- A paradoxical alignment that sarcastically promotes idealistic visions while acknowledging their impracticality and the unlikelihood of their realization.
+- Ironical Idealism
+	- A belief in idealistic principles, but with a constant layer of irony, as adherents consider the pursuit of such ideals in the real world as a fool's errand.
+- Satirical Activism
+	- A cynical take on political activism, where participants engage in seemingly passionate causes, but ultimately view their efforts as futile gestures against a corrupt system.
