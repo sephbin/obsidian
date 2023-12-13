@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systems/BRP/Thule - Political Alignments.md",
+                "file": "GM - Campaigns/Ultima Thule/Ultima Thule.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systems/BRP/Thule - Political Alignments.md",
+                "file": "GM - Campaigns/Ultima Thule/Ultima Thule.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systems/BRP/Thule - Political Alignments.md",
+                "file": "GM - Campaigns/Ultima Thule/Ultima Thule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systems/BRP/Thule - Political Alignments.md"
+                "file": "GM - Campaigns/Ultima Thule/Ultima Thule.md"
               }
             }
           },
@@ -159,6 +158,8 @@
   },
   "active": "3ea4d69f8278a660",
   "lastOpenFiles": [
+    "Systems/BRP/Thule - Political Alignments.md",
+    "Systems/BRP/Thule - BRP Optional Rule Checklist.md",
     "GM - Campaigns/Ultima Thule/4.0 Locations/Thule.md",
     "GM - Campaigns/Ultima Thule/3.0 System/Alignment.md",
     "GM - Campaigns/Ultima Thule/9.9 Other/Pinboard/Adjectives.md",
@@ -186,8 +187,6 @@
     "GM - Campaigns/Ultima Thule/1.0 Characters/Jenny Spasm.md",
     "GM - Campaigns/Ultima Thule/1.0 Characters/Harris Spite.md",
     "GM - Campaigns/Ultima Thule/1.0 Characters/Eve Poldark.md",
-    "Eve Poldark.md",
-    "Harris Spite.md",
     "orgObs.py",
     "GM - Campaigns/Ultima Thule/4.0 Locations/THULE.3dm.rhl",
     "psF24F.tmp",

@@ -19,3 +19,23 @@ There is currently major developments into the physics field of "Liminal Particl
 - **Technocrats:** Seek to control and utilize advanced technology to gain power and influence over the city.
 - **Mystics:** Focus on harnessing the power of magic and alchemy to understand and control Thule's destiny.
 - **Outlanders:** Recent refugees from ravaged planets who struggle to integrate into Thule's existing society.
+- 
+- Progressivism
+- Techno-Futurists
+- Anarchist Syndicalism
+- Cultural Restorationists
+- Meritocratic Reformers
+- Nihilist Dissidents
+- Egalitarian Humanists
+- Isolationist Traditionalists
+- Secular Rationalists
+- Bureaucratic Fatalism
+- Nepotistic Oligarchy
+- Cynical Realpolitik
+- Opportunist Opportunism
+- Pessimistic Nihilism
+- Sarcastic Populism
+- Skeptic's Pragmatism
+- Cynical Utopianism
+- Ironical Idealism
+- Satirical Activism
