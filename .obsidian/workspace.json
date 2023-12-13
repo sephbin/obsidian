@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Manifest.md",
+                "file": "GM - Campaigns/Ultima Thule/2.0 Lore/Newspaper Articles/Engine Erratic! Liminal Particle Experiment Sends Thule Sideways!.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Manifest.md",
+                "file": "GM - Campaigns/Ultima Thule/2.0 Lore/Newspaper Articles/Engine Erratic! Liminal Particle Experiment Sends Thule Sideways!.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Manifest.md",
+                "file": "GM - Campaigns/Ultima Thule/2.0 Lore/Newspaper Articles/Engine Erratic! Liminal Particle Experiment Sends Thule Sideways!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Manifest.md"
+                "file": "GM - Campaigns/Ultima Thule/2.0 Lore/Newspaper Articles/Engine Erratic! Liminal Particle Experiment Sends Thule Sideways!.md"
               }
             }
           },
@@ -158,12 +158,13 @@
   },
   "active": "383a31d925e7e61d",
   "lastOpenFiles": [
+    "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Gone with the Wind - a Pneumatic Paradox.md",
+    "GM - Campaigns/Ultima Thule/2.0 Lore/Newspaper Articles/Engine Erratic! Liminal Particle Experiment Sends Thule Sideways!.md",
+    "GM - Campaigns/Ultima Thule/2.0 Lore/Thule.md",
     "GM - Campaigns/Ultima Thule/4.0 Locations/Thule.md",
+    "Manifest.md",
     "Drift.md",
     "Rhetoric.md",
-    "GM - Campaigns/Ultima Thule/2.0 Lore/Thule.md",
-    "GM - Campaigns/Ultima Thule/2.0 Lore/Newspaper Articles/Engine Erratic! Liminal Particle Experiment Sends Thule Sideways!.md",
-    "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Gone with the Wind - a Pneumatic Paradox.md",
     "GM - Campaigns/Ultima Thule/1.0 Characters/Name Generator.md",
     "Gremlin's Gremlin Law.md",
     "GM - Campaigns/Ultima Thule/2.0 Lore/Newspaper Articles",
@@ -185,7 +186,6 @@
     "GM - Campaigns/Ultima Thule/4.0 Locations/Generic City Locations.md",
     "GM - Campaigns/Ultima Thule/4.0 Locations/Districts.md",
     "GM - Campaigns/Ultima Thule/4.0 Locations/thule loop.png",
-    "README.md",
     "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Narrative Map.canvas",
     "directory.json",
     "orgObs.py",
