@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM - Campaigns/Ultima Thule/Ultima Thule.md",
+                "file": "The Keepers of Inevitability.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM - Campaigns/Ultima Thule/Ultima Thule.md",
+                "file": "The Keepers of Inevitability.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GM - Campaigns/Ultima Thule/Ultima Thule.md",
+                "file": "The Keepers of Inevitability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GM - Campaigns/Ultima Thule/Ultima Thule.md"
+                "file": "The Keepers of Inevitability.md"
               }
             }
           },
@@ -159,10 +158,13 @@
   },
   "active": "383a31d925e7e61d",
   "lastOpenFiles": [
-    "The Keepers of Inevitability.md",
     "GM - Campaigns/Ultima Thule/Ultima Thule.md",
-    "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Gone with the Wind - a Pneumatic Paradox.md",
+    "The Keepers.md",
+    "The Ascendancy.md",
+    "Realpolitik Syndicate.md",
+    "The Keepers of Inevitability.md",
     "Axial Syndicate.md",
+    "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Gone with the Wind - a Pneumatic Paradox.md",
     "GM - Campaigns/Ultima Thule/4.0 Locations/Thule.md",
     "Chat GPT/Ultima Thule.md",
     "GM - Campaigns/Ultima Thule/2.0 Lore/Thule.md",
@@ -185,9 +187,6 @@
     "GM - Campaigns/Ultima Thule/1.0 Characters/Sladega A'Falious.md",
     "GM - Campaigns/Ultima Thule/1.0 Characters/psuedoLiminal Vending Machine 1.03.05.md",
     "GM - Campaigns/Ultima Thule/1.0 Characters/Pool Turgid.md",
-    "GM - Campaigns/Ultima Thule/1.0 Characters/Ormond Sacker.md",
-    "GM - Campaigns/Ultima Thule/1.0 Characters/Name Generator.md",
-    "GM - Campaigns/Ultima Thule/1.0 Characters/Leon the Magpie.md",
     "orgObs.py",
     "GM - Campaigns/Ultima Thule/4.0 Locations/THULE.3dm.rhl",
     "psF24F.tmp",

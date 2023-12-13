@@ -1,0 +1,5 @@
+- **Leaders:** Cultural elders, spiritual leaders, those who value Thule's unique heritage and traditions.
+- **Ideology:** Retreat from the meta-cosmos, focus on internal stability and preserving cultural identity, resist the influence of external forces.
+- **Methods:** Preserving ancient knowledge and traditions, advocating for self-sufficiency and resource independence, fostering a sense of community and shared history.
+- **Strengths:** Strong sense of unity and identity, deep knowledge of Thule's history and resources, potential for resilience and self-reliance.
+- **Weaknesses:** Risk of stagnation and isolation, difficulty adapting to change, potential for xenophobia and intolerance.

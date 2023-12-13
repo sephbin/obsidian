@@ -1,0 +1,5 @@
+- **Leaders:** Powerful families, corporate executives, influential figures with control over key resources.
+- **Ideology:** Maintain the current power structure, prioritize resource acquisition and stability, use the Thule Syndicate as a façade for oligarchic rule.
+- **Methods:** Lobbying within the Syndicate, manipulating resource distribution, using private security forces to maintain order.
+- **Strengths:** Efficient resource management, access to technology and information, control over the infrastructure.
+- **Weaknesses:** Public resentment towards their influence, potential for internal power struggles, vulnerability to technological disruptions.

@@ -13,35 +13,8 @@ There is currently major developments into the physics field of "Liminal Particl
 
 
 ### Political Factions
-#### [[Axial Syndicate]] - Oligarchs Syndicalism
-- **Leaders:** Powerful families, corporate executives, influential figures with control over key resources.
-- **Ideology:** Maintain the current power structure, prioritize resource acquisition and stability, use the Thule Syndicate as a façade for oligarchic rule.
-- **Methods:** Lobbying within the Syndicate, manipulating resource distribution, using private security forces to maintain order.
-- **Strengths:** Efficient resource management, access to technology and information, control over the infrastructure.
-- **Weaknesses:** Public resentment towards their influence, potential for internal power struggles, vulnerability to technological disruptions.
-
-#### [[The Keepers of Inevitability]] - Bureaucratic Fatalism
-- **Leaders:** High-ranking bureaucrats, seasoned officials, individuals who thrive within the system's complexities.
-- **Ideology:** Embrace the inherent chaos and inefficiency of bureaucracy, use it to their advantage, believe change is futile and the system is self-perpetuating.
-- **Methods:** Mastering the bureaucratic maze, exploiting loopholes and regulations, manipulating information flows.
-- **Strengths:** Deep understanding of the system, access to hidden knowledge and resources, adaptability to change.
-- **Weaknesses:** Public distrust and apathy, susceptibility to corruption and internal sabotage, lack of clear direction or vision.
-#### [[Realpolitik Syndicate]] - Skeptic's Pragmatism
-- **Leaders:** Resourceful individuals, skilled problem-solvers, those who focus on immediate solutions and practical outcomes.
-- **Ideology:** Dismiss grand ideologies as impractical, prioritize short-term solutions to pressing issues, adapt to the ever-changing landscape of Thule.
-- **Methods:** Negotiation and compromise, resourcefulness and ingenuity, temporary alliances based on mutual benefit.
-- **Strengths:** Flexibility and adaptability, ability to navigate complex situations, lack of ideological baggage.
-- **Weaknesses:** Short-sightedness and lack of long-term vision, susceptibility to manipulation by stronger factions, difficulty in inspiring public loyalty.
-#### [[The Ascendancy]] - Techno-Futurists
-- **Leaders:** Engineers, scientists, visionaries obsessed with technological advancement and progress.
-- **Ideology:** Reshape Thule through technological innovation, prioritize scientific research and development, embrace the meta-cosmos and its possibilities.
-- **Methods:** Investing in research and development, utilizing advanced technology to solve problems, advocating for radical social and political change.
-- **Strengths:** Access to cutting-edge technology, potential for solving resource scarcity and environmental problems, ability to inspire hope and progress.
-- **Weaknesses:** Ethical concerns about technology's impact, potential for unforeseen consequences of rapid change, risk of creating a technocratic elite.
-
-#### [[The Keepers]] - Isolationist Traditionalists
-- **Leaders:** Cultural elders, spiritual leaders, those who value Thule's unique heritage and traditions.
-- **Ideology:** Retreat from the meta-cosmos, focus on internal stability and preserving cultural identity, resist the influence of external forces.
-- **Methods:** Preserving ancient knowledge and traditions, advocating for self-sufficiency and resource independence, fostering a sense of community and shared history.
-- **Strengths:** Strong sense of unity and identity, deep knowledge of Thule's history and resources, potential for resilience and self-reliance.
-- **Weaknesses:** Risk of stagnation and isolation, difficulty adapting to change, potential for xenophobia and intolerance.
+- [[Axial Syndicate]] - Oligarchs Syndicalism
+- [[The Keepers of Inevitability]] - Bureaucratic Fatalism
+- [[Realpolitik Syndicate]] - Skeptic's Pragmatism
+- [[The Ascendancy]] - Techno-Futurists
+- [[The Keepers]] - Isolationist Traditionalists
