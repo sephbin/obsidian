@@ -18,3 +18,5 @@ There is currently major developments into the physics field of "Liminal Particl
 - [[Realpolitik Syndicate]] - Skeptic's Pragmatism
 - [[Magescience Vanguard Federation]] - Techno-Futurists
 - [[Thule Cultural Defence Society]] - Isolationist Traditionalists
+
+### Religious Factions
