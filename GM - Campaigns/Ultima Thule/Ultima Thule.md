@@ -32,3 +32,16 @@ There is currently major developments into the physics field of "Liminal Particl
 - **Methods:** Negotiation and compromise, resourcefulness and ingenuity, temporary alliances based on mutual benefit.
 - **Strengths:** Flexibility and adaptability, ability to navigate complex situations, lack of ideological baggage.
 - **Weaknesses:** Short-sightedness and lack of long-term vision, susceptibility to manipulation by stronger factions, difficulty in inspiring public loyalty.
+#### [[The Ascendancy]] - Techno-Futurists
+- **Leaders:** Engineers, scientists, visionaries obsessed with technological advancement and progress.
+- **Ideology:** Reshape Thule through technological innovation, prioritize scientific research and development, embrace the meta-cosmos and its possibilities.
+- **Methods:** Investing in research and development, utilizing advanced technology to solve problems, advocating for radical social and political change.
+- **Strengths:** Access to cutting-edge technology, potential for solving resource scarcity and environmental problems, ability to inspire hope and progress.
+- **Weaknesses:** Ethical concerns about technology's impact, potential for unforeseen consequences of rapid change, risk of creating a technocratic elite.
+
+#### [[The Keepers]] - Isolationist Traditionalists
+- **Leaders:** Cultural elders, spiritual leaders, those who value Thule's unique heritage and traditions.
+- **Ideology:** Retreat from the meta-cosmos, focus on internal stability and preserving cultural identity, resist the influence of external forces.
+- **Methods:** Preserving ancient knowledge and traditions, advocating for self-sufficiency and resource independence, fostering a sense of community and shared history.
+- **Strengths:** Strong sense of unity and identity, deep knowledge of Thule's history and resources, potential for resilience and self-reliance.
+- **Weaknesses:** Risk of stagnation and isolation, difficulty adapting to change, potential for xenophobia and intolerance.
