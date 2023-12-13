@@ -14,7 +14,7 @@ There is currently major developments into the physics field of "Liminal Particl
 
 ### Political Factions
 - [[Axial Syndicate]] - Oligarchs Syndicalism
-- [[The Keepers of Inevitability]] - Bureaucratic Fatalism
+- [[Thule Public Servants Union]] - Bureaucratic Fatalism
 - [[Realpolitik Syndicate]] - Skeptic's Pragmatism
 - [[The Ascendancy]] - Techno-Futurists
 - [[The Keepers]] - Isolationist Traditionalists
