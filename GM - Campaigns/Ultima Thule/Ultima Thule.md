@@ -8,8 +8,14 @@ The central location is the city "Thule", a unique city built on a massive, levi
 ### Magic and Technology
 There isn't a major distinction between Magic and Technology in Thule, the inhabitants refer to it as magescience rather than science of magic. Whatever is understood as magic is just another natural occurrence in the universe like electricity or gravity. Magscience requires energy just as much as non-fictional science, and so the people of Thule use it sparingly, whilst also looking for new advancements in the magescience field for profit and lifestyle improvement.
 Because of the nature of Thules traversal through spacetime, it is hard for the city to set up resource gathering, like farming or mining, and so energy consumption need to be efficient and rationed.
-
-
-
 ### Liminal Physics
-There is currently major developments into the physics field of "Liminal Particles" and what 
+There is currently major developments into the physics field of "Liminal Particles", this is magescience that goes beyond "Quantum Physics". Its in a developmental stage within Thule, but companies are using it to develop space-expanding products, such as storage containers that are larger on the inside than the outside.
+
+
+### Political Factions
+
+- **Conservatives:** Seek to preserve the traditions and cultures of their ancestors, often distrusting new technologies and ideas.
+- **Progressives:** Embrace change and innovation, believing that adapting to Thule's unique environment is key to survival.
+- **Technocrats:** Seek to control and utilize advanced technology to gain power and influence over the city.
+- **Mystics:** Focus on harnessing the power of magic and alchemy to understand and control Thule's destiny.
+- **Outlanders:** Recent refugees from ravaged planets who struggle to integrate into Thule's existing society.

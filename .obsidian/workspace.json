@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM - Campaigns/Ultima Thule/Ultima Thule.md",
+                "file": "Systems/BRP/Thule - Political Alignments.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Conser",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM - Campaigns/Ultima Thule/Ultima Thule.md",
+                "file": "Systems/BRP/Thule - Political Alignments.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GM - Campaigns/Ultima Thule/Ultima Thule.md",
+                "file": "Systems/BRP/Thule - Political Alignments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GM - Campaigns/Ultima Thule/Ultima Thule.md"
+                "file": "Systems/BRP/Thule - Political Alignments.md"
               }
             }
           },
@@ -140,7 +141,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -159,7 +160,10 @@
   "active": "3ea4d69f8278a660",
   "lastOpenFiles": [
     "GM - Campaigns/Ultima Thule/4.0 Locations/Thule.md",
+    "GM - Campaigns/Ultima Thule/3.0 System/Alignment.md",
+    "GM - Campaigns/Ultima Thule/9.9 Other/Pinboard/Adjectives.md",
     "GM - Campaigns/Ultima Thule/Ultima Thule.md",
+    "GM - Campaigns/Ultima Thule/2.0 Lore/Rhetoric District 22.md",
     "GM - Campaigns/Ultima Thule/4.0 Locations/Generic City Locations.md",
     "GM - Campaigns/Ultima Thule/4.0 Locations/Districts.md",
     "Axial Syndicate.md",
@@ -184,9 +188,6 @@
     "GM - Campaigns/Ultima Thule/1.0 Characters/Eve Poldark.md",
     "Eve Poldark.md",
     "Harris Spite.md",
-    "Pool Turgid.md",
-    "GM - Campaigns/Ultima Thule/Pool Turgid.md",
-    "GM - Campaigns/Ultima Thule/Ormond Sacker.md",
     "orgObs.py",
     "GM - Campaigns/Ultima Thule/4.0 Locations/THULE.3dm.rhl",
     "psF24F.tmp",
