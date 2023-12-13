@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM - Campaigns/Ultima Thule/4.0 Locations/Thule.md",
+                "file": "GM - Campaigns/Ultima Thule/Ultima Thule.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM - Campaigns/Ultima Thule/4.0 Locations/Thule.md",
+                "file": "GM - Campaigns/Ultima Thule/Ultima Thule.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GM - Campaigns/Ultima Thule/4.0 Locations/Thule.md",
+                "file": "GM - Campaigns/Ultima Thule/Ultima Thule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GM - Campaigns/Ultima Thule/4.0 Locations/Thule.md"
+                "file": "GM - Campaigns/Ultima Thule/Ultima Thule.md"
               }
             }
           },
@@ -158,8 +158,10 @@
   },
   "active": "3ea4d69f8278a660",
   "lastOpenFiles": [
-    "GM - Campaigns/Ultima Thule/4.0 Locations/Districts.md",
     "GM - Campaigns/Ultima Thule/4.0 Locations/Thule.md",
+    "GM - Campaigns/Ultima Thule/Ultima Thule.md",
+    "GM - Campaigns/Ultima Thule/4.0 Locations/Generic City Locations.md",
+    "GM - Campaigns/Ultima Thule/4.0 Locations/Districts.md",
     "Axial Syndicate.md",
     "Chat GPT/Ultima Thule.md",
     "GM - Campaigns/Ultima Thule/4.0 Locations/thule loop.png",
@@ -185,8 +187,6 @@
     "Pool Turgid.md",
     "GM - Campaigns/Ultima Thule/Pool Turgid.md",
     "GM - Campaigns/Ultima Thule/Ormond Sacker.md",
-    "GM - Campaigns/Ultima Thule/Kikini Bamalam.md",
-    "Ormond Sacker.md",
     "orgObs.py",
     "GM - Campaigns/Ultima Thule/4.0 Locations/THULE.3dm.rhl",
     "psF24F.tmp",
