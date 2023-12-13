@@ -20,3 +20,14 @@ There is currently major developments into the physics field of "Liminal Particl
 - [[Thule Cultural Defence Society]] - Isolationist Traditionalists
 
 ### Religious Factions
+- **The Engine Mages:** Believing the propulsion force of Thule is a sentient entity, they worship it as a divine engine driving the city through the cosmos. They seek to understand its will and appease it through rituals and offerings.
+- **The Dream Architects:** Exploring the liminal space between dreams and reality, they believe the meta-cosmos can be shaped through collective dreaming. They practice elaborate sleep rituals and dreamsharing techniques to influence the course of Thule's journey.
+- **The Ghostlight Navigators:** Venerate the spirits of past planets consumed by Thule, believing they guide the city's path. They commune with the ghosts through mediums and shamans, seeking their wisdom and direction.
+- **The Techno-Shamans:** Blending technology and ancient rituals, they believe in manipulating the flow of energy through the city's infrastructure. They use advanced technology to perform rituals, heal the sick, and commune with the meta-cosmos.
+- **The Wanderers of the Void:** Rejecting any fixed belief system, they embrace the constant change and uncertainty of Thule's existence. They travel the city's underbelly and forgotten corners, seeking enlightenment through exploration and personal experience.
+### Major  Philosophical Movements
+- **The Meta-Cosmopolitans:** Embracing the nomadic nature of Thule, they believe in constant exploration and adaptation to new environments. They advocate for open borders and cultural exchange, viewing Thule as a microcosm of the universe.
+- **The Liminal Alchemists:** Focused on harnessing the strange properties of liminal physics, they explore the nature of reality and consciousness. They seek to bend space and time, manipulate probability, and understand the true nature of the meta-cosmos.
+- **The Resource Rationalists:** Pragmatists concerned with the finite resources available to Thule. They advocate for efficient resource management, controlled technological development, and sustainable practices to ensure the city's long-term survival.
+- **The Dissonance Harmonists:** Accepting the inherent chaos and contradictions of Thule, they believe beauty and meaning can be found in the midst of disorder. They practice artistic expression that embraces dissonance, paradox, and the unexpected.
+- **The Memory Weavers:** Guardians of the past and collective memory of Thule's diverse refugee populations. They use storytelling, art, and ritual to preserve cultural heritage and ensure the voices of the past are not forgotten.
