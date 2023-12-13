@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gremlin's Gremlin Law.md",
-                "mode": "preview",
+                "file": "GM - Campaigns/Ultima Thule/1.0 Characters/Name Generator.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gremlin's Gremlin Law.md",
+                "file": "GM - Campaigns/Ultima Thule/1.0 Characters/Name Generator.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gremlin's Gremlin Law.md",
+                "file": "GM - Campaigns/Ultima Thule/1.0 Characters/Name Generator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gremlin's Gremlin Law.md"
+                "file": "GM - Campaigns/Ultima Thule/1.0 Characters/Name Generator.md"
               }
             }
           },
@@ -158,8 +158,10 @@
   },
   "active": "383a31d925e7e61d",
   "lastOpenFiles": [
-    "The Weavers of Liminal Destiny.md",
+    "GM - Campaigns/Ultima Thule/2.0 Lore/Newspaper Articles/Engine Erratic! Liminal Particle Experiment Sends Thule Sideways!.md",
     "Gremlin's Gremlin Law.md",
+    "GM - Campaigns/Ultima Thule/2.0 Lore/Newspaper Articles",
+    "The Weavers of Liminal Destiny.md",
     "GM - Campaigns/Ultima Thule/Ultima Thule.md",
     "Thule Solution Party.md",
     "Magescience Vanguard Federation.md",
@@ -186,7 +188,6 @@
     "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Narrative Map.canvas",
     "directory.json",
     "GM - Campaigns/Ultima Thule/1.0 Characters/Dr Formagia Cudge.md",
-    "GM - Campaigns/Ultima Thule/1.0 Characters/Sladega A'Falious.md",
     "orgObs.py",
     "GM - Campaigns/Ultima Thule/4.0 Locations/THULE.3dm.rhl",
     "psF24F.tmp",
@@ -200,7 +201,6 @@
     "ps9918.tmp",
     "Untitled",
     "Chat GPT",
-    "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind",
     "GM - Campaigns/Ultima Thule/4.0 Locations/thule-roads.svg",
     "GM - Campaigns/Ultima Thule/4.0 Locations/thule_road-names-holes.svg",
     "GM - Campaigns/Ultima Thule/4.0 Locations/thule_road-names.svg",
