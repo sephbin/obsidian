@@ -6,12 +6,6 @@ Panic rippled across Manifest district like a rogue wave today as the Liminal Fu
 
 Chaos erupted as gravity played hopscotch across the district. Reports flooded in of levitating lampposts, alleged sentient furniture, and a particularly disgruntled arithmetic daemon clogging the central maniport terminal. While no serious injuries were reported, the incident has left Manifest's citizens shaken and questioning the wisdom of meddling with the very fabric of reality.
 
-"The experiment was designed with fail-safes!" Dr. Praxis protested amidst the cacophony, "But clearly, something went terribly wrong." He went on to explain that the liminal particles, notoriously unpredictable, may have interacted with the city's propulsion core, causing the uncontrolled spatial distortions.
+"The experiment was designed with fail-safes!" Dr. Praxis protested amidst the cacophony, "But clearly, something went terribly wrong."
 
 The Syndicate has already launched an investigation, demanding answers and assurances that such an incident will not be repeated. Meanwhile, conspiracy theories run rampant in the bustling marketplace. Whispers of rogue daemons, disgruntled engineers, and even divine intervention fill the air as thick as the scent of ozone after a dimensional hop.
-
-The question remains: can Thule, a city constantly teetering on the edge of the unknown, afford to gamble with the very fabric of its existence in the pursuit of scientific advancement? Or is this a cosmic wake-up call, reminding us that some things are best left untouched?
-
-One thing is certain: with the liminal particles still buzzing with residual energy and the Engine Core humming erratically, Thule's future, for the moment, hangs by a very, very warped thread.
-
-**Stay tuned to The Thule Times for further updates as this developing story unfolds!**
