@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Weavers of Liminal Destiny.md",
-                "mode": "source",
+                "file": "Gremlin's Gremlin Law.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Weavers of Liminal Destiny.md",
+                "file": "Gremlin's Gremlin Law.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Weavers of Liminal Destiny.md",
+                "file": "Gremlin's Gremlin Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Weavers of Liminal Destiny.md"
+                "file": "Gremlin's Gremlin Law.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "383a31d925e7e61d",
   "lastOpenFiles": [
-    "GM - Campaigns/Ultima Thule/Ultima Thule.md",
     "The Weavers of Liminal Destiny.md",
+    "Gremlin's Gremlin Law.md",
+    "GM - Campaigns/Ultima Thule/Ultima Thule.md",
     "Thule Solution Party.md",
     "Magescience Vanguard Federation.md",
     "Thule Cultural Defence Society.md",
@@ -186,7 +187,6 @@
     "directory.json",
     "GM - Campaigns/Ultima Thule/1.0 Characters/Dr Formagia Cudge.md",
     "GM - Campaigns/Ultima Thule/1.0 Characters/Sladega A'Falious.md",
-    "GM - Campaigns/Ultima Thule/1.0 Characters/psuedoLiminal Vending Machine 1.03.05.md",
     "orgObs.py",
     "GM - Campaigns/Ultima Thule/4.0 Locations/THULE.3dm.rhl",
     "psF24F.tmp",
