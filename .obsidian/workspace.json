@@ -11,11 +11,14 @@
             "id": "383a31d925e7e61d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Unsorted/Midjourney.md",
-                "mode": "source",
-                "source": false
+                "file": "GM - Campaigns/The Pretty Things/The Pretty Things.canvas",
+                "viewState": {
+                  "x": 2090.3591981358622,
+                  "y": -216.55664808199197,
+                  "zoom": -2.9999999999999996
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unsorted/Midjourney.md",
+                "file": "GM - Campaigns/The Pretty Things/The Pretty Things.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unsorted/Midjourney.md",
+                "file": "GM - Campaigns/The Pretty Things/The Pretty Things.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unsorted/Midjourney.md"
+                "file": "GM - Campaigns/The Pretty Things/The Pretty Things.canvas"
               }
             }
           },
@@ -158,33 +161,38 @@
   },
   "active": "383a31d925e7e61d",
   "lastOpenFiles": [
-    "GM - Campaigns/Blood on the Clocktower/BotCT Japanese.md",
-    "Unsorted/Midjourney.md",
-    "GM - Campaigns/Ultima Thule/2.0 Lore/Newspaper Articles/Engine Erratic! Liminal Particle Experiment Sends Thule Sideways!.md",
-    "GM - Campaigns/Ultima Thule/Ultima Thule.md",
-    "The Weavers of Liminal Destiny.md",
-    "Gremlin's Gremlin Law.md",
-    "GM - Campaigns/Ultima Thule/1.0 Characters/Name Generator.md",
-    "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Gone with the Wind - a Pneumatic Paradox.md",
-    "GM - Campaigns/Ultima Thule/2.0 Lore/Thule.md",
-    "GM - Campaigns/Ultima Thule/4.0 Locations/Thule.md",
-    "Manifest.md",
-    "Drift.md",
-    "Rhetoric.md",
+    "GM - Campaigns/The Pretty Things/Session 0 Checklist.md",
+    "GM - Campaigns/The Pretty Things/The Pretty Things.canvas",
+    "GM - Campaigns/The Pretty Things/Pretty Things Map - Solo.png",
+    "GM - Campaigns/The Pretty Things/Oh You Pretty Things.md",
+    "GM - Campaigns/The Pretty Things/Moonlight Serenade.mp3",
+    "GM - Campaigns/The Pretty Things/lucid-nightmare-by-tim-kulig-from-filmmusic-io.mp3",
+    "GM - Campaigns/The Pretty Things/Jungle - Day.mp3",
+    "GM - Campaigns/The Pretty Things/Invite.md",
+    "GM - Campaigns/The Pretty Things/Ideas.md",
+    "GM - Campaigns/The Pretty Things/Camiguin Island.md",
+    "GM - Campaigns/The Pretty Things/Artifacts/Walter Denton's Letters.md",
+    "GM - Campaigns/The Pretty Things/Artifacts/Hazel Cushen's Books.md",
+    "GM - Campaigns/The Pretty Things/Artifacts/Arthur Cotton's Journal.md",
+    "GM - Campaigns/The Pretty Things/Characters/Gordon Cash.md",
+    "GM - Campaigns/The Pretty Things/Characters/Ralph Johnson (Janković).md",
+    "GM - Campaigns/The Pretty Things/Characters/Norman Bartholomew.md",
+    "GM - Campaigns/The Pretty Things/Characters/Mino Fiorensi.md",
+    "GM - Campaigns/The Pretty Things/Characters/Millan de Santangel.md",
+    "GM - Campaigns/The Pretty Things/Characters/Lolo dela Cruz.md",
+    "GM - Campaigns/The Pretty Things/Characters/Lola dela Cruz.md",
+    "GM - Campaigns/The Pretty Things/Characters/Kunisada Shigeo.md",
+    "GM - Campaigns/The Pretty Things/Characters/Hazel Cushen.md",
+    "GM - Campaigns/The Pretty Things/Characters/Grantly Tollis.md",
+    "GM - Campaigns/The Pretty Things/Characters/Gonzalo Donoso Cortés.md",
+    "GM - Campaigns/The Pretty Things/Characters/Fulgencio del Castillo.md",
+    "GM - Campaigns/The Pretty Things/Characters/Ethel Stringer.md",
+    "GM - Campaigns/The Pretty Things/Characters/Diwa Mendoza.md",
+    "GM - Campaigns/The Pretty Things/Characters/Crisanto Mendoza.md",
+    "GM - Campaigns/The Pretty Things/Characters/Chesa Mendoza.md",
+    "GM - Campaigns/The Pretty Things/Characters/Capt. Emilio Pavía y Savignore.md",
+    "GM - Campaigns/The Pretty Things/Characters/Arthur Cotton.md",
     "GM - Campaigns/Ultima Thule/2.0 Lore/Newspaper Articles",
-    "Thule Solution Party.md",
-    "Magescience Vanguard Federation.md",
-    "Thule Cultural Defence Society.md",
-    "Realpolitik Syndicate.md",
-    "Axial Syndicate.md",
-    "Chat GPT/Ultima Thule.md",
-    "GM - Campaigns/Ultima Thule/WIP - Political Factions.md",
-    "GM - Campaigns/Ultima Thule/2.0 Lore/Limina Expanse Amplifier mk.III.md",
-    "Systems/BRP/Thule - Political Alignments.md",
-    "Systems/BRP/Thule - BRP Optional Rule Checklist.md",
-    "GM - Campaigns/Ultima Thule/3.0 System/Alignment.md",
-    "GM - Campaigns/Ultima Thule/9.9 Other/Pinboard/Adjectives.md",
-    "GM - Campaigns/Ultima Thule/2.0 Lore/Rhetoric District 22.md",
     "GM - Campaigns/Ultima Thule/4.0 Locations/thule loop.png",
     "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Narrative Map.canvas",
     "directory.json",
@@ -198,15 +206,10 @@
     "0_2.webp",
     "0_2 1.webp",
     "0_3.webp",
-    "ps9918.tmp",
-    "Untitled",
-    "Chat GPT",
     "GM - Campaigns/Ultima Thule/4.0 Locations/thule-roads.svg",
     "GM - Campaigns/Ultima Thule/4.0 Locations/thule_road-names-holes.svg",
     "GM - Campaigns/Ultima Thule/4.0 Locations/thule_road-names.svg",
-    "GM - Campaigns/Ultima Thule/4.0 Locations/thule_road_lines.svg",
     "GM - Campaigns/Blood on the Clocktower/Untitled.canvas",
-    "Systems/BRP/System/Character Creation/Character Creation.canvas",
-    "GM - Campaigns/The Pretty Things/The Pretty Things.canvas"
+    "Systems/BRP/System/Character Creation/Character Creation.canvas"
   ]
 }
