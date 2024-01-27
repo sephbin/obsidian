@@ -39,3 +39,16 @@ Railroading exists
 It doesn't need to be a mystery/investigation, style of the scenario
 
 
+
+Convey information that is useful
+When Mike is mapping out a new place checklist:
+1. Travel
+	how do you get around
+	how do you get in, or out.
+2. Who are the police, what is the law
+3. Where are the hospitals, what is the level of care
+4. Where are the libraries
+	Where is the information
+5. What do people do for work
+6. What are shops
+	1. What can you buy?
