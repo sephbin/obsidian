@@ -36,4 +36,6 @@ What are the creative decisions available to investigators?
 
 Railroading exists
 
+It doesn't need to be a mystery/investigation, style of the scenario
+
 
