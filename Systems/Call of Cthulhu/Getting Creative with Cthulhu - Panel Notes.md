@@ -52,3 +52,4 @@ When Mike is mapping out a new place checklist:
 5. What do people do for work
 6. What are shops
 	1. What can you buy?
+7. Explain significant historical figures/places
