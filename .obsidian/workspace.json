@@ -26,9 +26,11 @@
             "id": "db528938932624d9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "Systems/Call of Cthulhu/Miskatonic Repository Additional Guidelines.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -99,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM - Campaigns/The Pretty Things/The Pretty Things.canvas",
+                "file": "Systems/Call of Cthulhu/Miskatonic Repository Additional Guidelines.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GM - Campaigns/The Pretty Things/The Pretty Things.canvas",
+                "file": "Systems/Call of Cthulhu/Miskatonic Repository Additional Guidelines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GM - Campaigns/The Pretty Things/The Pretty Things.canvas"
+                "file": "Systems/Call of Cthulhu/Miskatonic Repository Additional Guidelines.md"
               }
             }
           },
@@ -174,6 +176,9 @@
   },
   "active": "db528938932624d9",
   "lastOpenFiles": [
+    "Systems/Call of Cthulhu/Character Traits and Descriptions.md",
+    "Systems/Call of Cthulhu/Miskatonic Repository Additional Guidelines.md",
+    "Systems/Untitled.canvas",
     "GM - Campaigns/The Pretty Things/Session 0 Checklist.md",
     "GM - Campaigns/The Pretty Things/The Pretty Things.canvas",
     "GM - Campaigns/The Pretty Things/Pretty Things Map - Solo.png",
@@ -203,8 +208,6 @@
     "GM - Campaigns/The Pretty Things/Characters/Diwa Mendoza.md",
     "GM - Campaigns/The Pretty Things/Characters/Crisanto Mendoza.md",
     "GM - Campaigns/The Pretty Things/Characters/Chesa Mendoza.md",
-    "GM - Campaigns/The Pretty Things/Characters/Capt. Emilio Pavía y Savignore.md",
-    "GM - Campaigns/The Pretty Things/Characters/Arthur Cotton.md",
     "GM - Campaigns/Ultima Thule/2.0 Lore/Newspaper Articles",
     "GM - Campaigns/Ultima Thule/4.0 Locations/thule loop.png",
     "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Narrative Map.canvas",
