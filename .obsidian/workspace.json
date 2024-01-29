@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM - Campaigns/The Pretty Things/To Publish or not to Publish.md",
+                "file": "GM - Campaigns/The Pretty Things/Publish/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM - Campaigns/The Pretty Things/To Publish or not to Publish.md",
+                "file": "GM - Campaigns/The Pretty Things/Publish/Untitled.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GM - Campaigns/The Pretty Things/To Publish or not to Publish.md",
+                "file": "GM - Campaigns/The Pretty Things/Publish/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GM - Campaigns/The Pretty Things/To Publish or not to Publish.md"
+                "file": "GM - Campaigns/The Pretty Things/Publish/Untitled.md"
               }
             }
           },
@@ -176,13 +176,16 @@
   },
   "active": "db528938932624d9",
   "lastOpenFiles": [
+    "GM - Campaigns/The Pretty Things/Publish/1.0_Intro.md",
+    "GM - Campaigns/The Pretty Things/Publish/Untitled.md",
     "Systems/Call of Cthulhu/Getting Creative with Cthulhu - Panel Notes.md",
+    "GM - Campaigns/The Pretty Things/Publish",
+    "Systems/Call of Cthulhu/Miskatonic Repository Additional Guidelines.md",
+    "GM - Campaigns/The Pretty Things/To Publish or not to Publish.md",
     "GM - Campaigns/The Pretty Things/The Pretty Things.canvas",
     "GM - Campaigns/The Pretty Things/Ideas.md",
     "GM - Campaigns/The Pretty Things/Invite.md",
     "GM - Campaigns/The Pretty Things/Session 0 Checklist.md",
-    "GM - Campaigns/The Pretty Things/To Publish or not to Publish.md",
-    "Systems/Call of Cthulhu/Miskatonic Repository Additional Guidelines.md",
     "Systems/Call of Cthulhu/Character Traits and Descriptions.md",
     "Systems/Untitled.canvas",
     "GM - Campaigns/The Pretty Things/Pretty Things Map - Solo.png",
@@ -206,7 +209,6 @@
     "GM - Campaigns/The Pretty Things/Characters/Grantly Tollis.md",
     "GM - Campaigns/The Pretty Things/Characters/Gonzalo Donoso Cortés.md",
     "GM - Campaigns/The Pretty Things/Characters/Fulgencio del Castillo.md",
-    "GM - Campaigns/The Pretty Things/Characters/Ethel Stringer.md",
     "GM - Campaigns/Ultima Thule/2.0 Lore/Newspaper Articles",
     "GM - Campaigns/Ultima Thule/4.0 Locations/thule loop.png",
     "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Narrative Map.canvas",
@@ -217,7 +219,6 @@
     "psAF2A.tmp",
     "0_0-1.webp",
     "0_0.webp",
-    "ps7315.tmp",
     "0_2.webp",
     "0_2 1.webp",
     "0_3.webp",
