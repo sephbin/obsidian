@@ -1,5 +1,5 @@
 How do players travel?
-	The majority of the scenario is played in the Camiguin camp, where characters can get about by foot. There is a civilian dingy available once the characters travelling from <can't remember> arive, and a jeep with petrol  to drive to the nearest town and back (this jeep may need to be repaired before it can be used). It should be difficult for the characters to escape.
+	The majority of the scenario is played in the Camiguin camp, where characters can get about by foot. There is a civilian dingy available once the characters travelling from Jagna arrive, and a jeep with petrol  to drive to the nearest town and back (this jeep may need to be repaired before it can be used). It should be difficult for the characters to escape.
 Who or what is the law?
 	The military and army as an institution is the law. If players are playing certain characters, they are the law, and are only beholden to lawful consequences if after the events of the scenario. Alternatively, there are enough soldiers on the island, with decent moral bearings, that they will apprehend a player character if they feel rights have been wronged.
 Where are their medical facilities and what are they capable of?
@@ -8,11 +8,11 @@ Where can players access information?
 	There are no formal libraries, but various characters have access to books that are relevant to the scenario, including Arthur Cotton, Hazel Cushen and Ethel Stringer.
 	The two best sources of information regarding the history of the area and any mythos activity are Lolo and Lola dela Cruz, the grandparents of Bulawan. They aren't old enough to have experienced the birth of Diwa Mendoza, but are old enough to have heard the stories of that night, and are familiar with any of the local customs etc.
 What do people do for work?
-	Almost all the characters in this scenario are in payed positions in the war. Bulawan and her grandparents are survivor scavengers trying to live off the foreign defenders.
+	Almost all the characters in this scenario are in paid positions in the war. Bulawan and her grandparents are survivor scavengers trying to live off the foreign defenders.
 How to players access new items and what can the access?
 	There are no shops in the immediate area, the players can use the jeep to travel to the nearby town, but they will find it empty and ransacked. Instead they must negotiate with Walter Denton to access any of the military items he has in his storage. This will be difficult while he is alive and sane. Any items procured through Denton have a chance to be sabotaged.
 Are there any real historical figures, places or events used in this scenario and what are they?
-	The Phillipines have had a turbulent history, and this scenario deals with the various foreign influences including the Spanish Colonisation, American Acquisition and the Japanese Invasion. This all sits as a backdrop to the scenario and there is no attempt at altering that history at all.
+	The Philippines have had a turbulent history, and this scenario deals with the various foreign influences including the Spanish Colonisation, American Acquisition and the Japanese Invasion. This all sits as a backdrop to the scenario and there is no attempt at altering that history at all.
 	World War 2 and the Pacific Campaign are real events, nothing has been changed regarding this.
 	The sunken graveyard on Camiguin is a real place, and there was a volcanic event in the late 19th century that caused the capital of the island to sink.
 	General Yamashita is a real historical figure in the Imperial Japanese Navy and was convicted of war crimes. Yamashita has a fabled treasure, alleged war loot pillaged from throughout south east asia. Con artists use this story to try and trick wealthy tourists in the Phillipines into investing in treasure hunting expeditions. This scenario treats these stories as if they are true, but the Aurea Myx has consumed all the gold Yamashita has stored.
