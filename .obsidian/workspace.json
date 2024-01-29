@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM - Campaigns/The Pretty Things/Publish/Untitled.md",
+                "file": "GM - Campaigns/The Pretty Things/Publish/1.0_Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM - Campaigns/The Pretty Things/Publish/Untitled.md",
+                "file": "GM - Campaigns/The Pretty Things/Publish/1.0_Intro.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GM - Campaigns/The Pretty Things/Publish/Untitled.md",
+                "file": "GM - Campaigns/The Pretty Things/Publish/1.0_Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GM - Campaigns/The Pretty Things/Publish/Untitled.md"
+                "file": "GM - Campaigns/The Pretty Things/Publish/1.0_Intro.md"
               }
             }
           },
@@ -176,8 +176,11 @@
   },
   "active": "db528938932624d9",
   "lastOpenFiles": [
+    "GM - Campaigns/The Pretty Things/Publish/5.0_Appendix.md",
     "GM - Campaigns/The Pretty Things/Publish/1.0_Intro.md",
-    "GM - Campaigns/The Pretty Things/Publish/Untitled.md",
+    "GM - Campaigns/The Pretty Things/Publish/4.0_Scenes.md",
+    "GM - Campaigns/The Pretty Things/Publish/3.0_Timeline.md",
+    "GM - Campaigns/The Pretty Things/Publish/2.0_Dramtis Personae.md",
     "Systems/Call of Cthulhu/Getting Creative with Cthulhu - Panel Notes.md",
     "GM - Campaigns/The Pretty Things/Publish",
     "Systems/Call of Cthulhu/Miskatonic Repository Additional Guidelines.md",
@@ -206,9 +209,6 @@
     "GM - Campaigns/The Pretty Things/Characters/Lola dela Cruz.md",
     "GM - Campaigns/The Pretty Things/Characters/Kunisada Shigeo.md",
     "GM - Campaigns/The Pretty Things/Characters/Hazel Cushen.md",
-    "GM - Campaigns/The Pretty Things/Characters/Grantly Tollis.md",
-    "GM - Campaigns/The Pretty Things/Characters/Gonzalo Donoso Cortés.md",
-    "GM - Campaigns/The Pretty Things/Characters/Fulgencio del Castillo.md",
     "GM - Campaigns/Ultima Thule/2.0 Lore/Newspaper Articles",
     "GM - Campaigns/Ultima Thule/4.0 Locations/thule loop.png",
     "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Narrative Map.canvas",
