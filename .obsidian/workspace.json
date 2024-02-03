@@ -11,14 +11,11 @@
             "id": "383a31d925e7e61d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "GM - Campaigns/The Pretty Things/The Pretty Things.canvas",
-                "viewState": {
-                  "x": -3722.687077983681,
-                  "y": -310.52294267102707,
-                  "zoom": -0.333333333333333
-                }
+                "file": "GM - Campaigns/The Pretty Things/Publish/2.0_Dramtis Personae.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -100,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM - Campaigns/The Pretty Things/The Pretty Things.canvas",
+                "file": "GM - Campaigns/The Pretty Things/Publish/2.0_Dramtis Personae.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GM - Campaigns/The Pretty Things/The Pretty Things.canvas",
+                "file": "GM - Campaigns/The Pretty Things/Publish/2.0_Dramtis Personae.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GM - Campaigns/The Pretty Things/The Pretty Things.canvas"
+                "file": "GM - Campaigns/The Pretty Things/Publish/2.0_Dramtis Personae.md"
               }
             }
           },
@@ -175,9 +172,10 @@
   },
   "active": "383a31d925e7e61d",
   "lastOpenFiles": [
+    "GM - Campaigns/The Pretty Things/Publish/To Publish or not to Publish.md",
+    "GM - Campaigns/The Pretty Things/The Pretty Things.canvas",
     "GM - Campaigns/The Pretty Things/Publish/2.0_Dramtis Personae.md",
     "Gold.md",
-    "GM - Campaigns/The Pretty Things/The Pretty Things.canvas",
     "GM - Campaigns/The Pretty Things/Monsters/Crab Eating Monkey.md",
     "GM - Campaigns/The Pretty Things/Publish/4.0_Scenes.md",
     "GM - Campaigns/The Pretty Things/Locations/_files/PrettyThings-Map.jpg",
@@ -188,7 +186,6 @@
     "Systems/Call of Cthulhu/Getting Creative with Cthulhu - Panel Notes.md",
     "GM - Campaigns/The Pretty Things/Publish",
     "Systems/Call of Cthulhu/Miskatonic Repository Additional Guidelines.md",
-    "GM - Campaigns/The Pretty Things/To Publish or not to Publish.md",
     "GM - Campaigns/The Pretty Things/Ideas.md",
     "GM - Campaigns/The Pretty Things/Invite.md",
     "GM - Campaigns/The Pretty Things/Session 0 Checklist.md",
@@ -208,7 +205,6 @@
     "GM - Campaigns/The Pretty Things/Characters/Norman Bartholomew.md",
     "GM - Campaigns/The Pretty Things/Characters/Mino Fiorensi.md",
     "GM - Campaigns/The Pretty Things/Characters/Millan de Santangel.md",
-    "GM - Campaigns/The Pretty Things/Characters/Lolo dela Cruz.md",
     "GM - Campaigns/Ultima Thule/2.0 Lore/Newspaper Articles",
     "GM - Campaigns/Ultima Thule/4.0 Locations/thule loop.png",
     "GM - Campaigns/Ultima Thule/0.0 Adventures/Gone with the Wind/Narrative Map.canvas",
