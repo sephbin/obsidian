@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "b0f7fc80fac68ad5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
             "id": "db528938932624d9",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +181,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "383a31d925e7e61d",
+  "active": "b0f7fc80fac68ad5",
   "lastOpenFiles": [
     "GM - Campaigns/The Pretty Things/Publish/2.0_Dramtis Personae.md",
     "GM - Campaigns/The Pretty Things/Publish/To Publish or not to Publish.md",
