@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"b7181ba6216fc7e0","type":"text","text":"Thaddeus Preston","x":-40,"y":-560,"width":250,"height":60},
+		{"id":"67908d8280171d0f","type":"text","text":"Mavis Preston","x":-40,"y":-440,"width":250,"height":60},
+		{"id":"8f79f60fc83c6de0","type":"text","text":"Milford Millard III (Jr.)","x":460,"y":-560,"width":250,"height":60},
+		{"id":"886541724911b9b7","type":"text","text":"Bobby Godard","x":460,"y":-660,"width":250,"height":60}
+	],
+	"edges":[]
+}
