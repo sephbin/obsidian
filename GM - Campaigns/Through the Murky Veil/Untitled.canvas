@@ -1,9 +1,15 @@
 {
 	"nodes":[
-		{"id":"b7181ba6216fc7e0","type":"text","text":"Thaddeus Preston","x":-40,"y":-560,"width":250,"height":60},
-		{"id":"67908d8280171d0f","type":"text","text":"Mavis Preston","x":-40,"y":-440,"width":250,"height":60},
-		{"id":"8f79f60fc83c6de0","type":"text","text":"Milford Millard III (Jr.)","x":460,"y":-560,"width":250,"height":60},
-		{"id":"886541724911b9b7","type":"text","text":"Bobby Godard","x":460,"y":-660,"width":250,"height":60}
+		{"id":"b6a5435bb0c7d8e3","x":-320,"y":-460,"width":250,"height":60,"type":"text","text":"Little Brother"},
+		{"id":"67908d8280171d0f","type":"text","text":"Mavis Preston","x":-20,"y":-460,"width":250,"height":60},
+		{"id":"4fc9ff31d8d80de5","x":-320,"y":-590,"width":250,"height":60,"type":"text","text":"Wife"},
+		{"id":"b7181ba6216fc7e0","type":"text","text":"Thaddeus Preston","x":-20,"y":-590,"width":250,"height":60},
+		{"id":"2c6647284eef59ed","x":-320,"y":-340,"width":250,"height":60,"type":"text","text":"Little Sister"},
+		{"id":"8f79f60fc83c6de0","type":"text","text":"Milford Millard III (Jr.)","x":460,"y":-590,"width":250,"height":60},
+		{"id":"886541724911b9b7","type":"text","text":"Bobby Godard","x":460,"y":-700,"width":250,"height":60},
+		{"id":"5a66cd1fe8d0f7a5","x":-20,"y":-310,"width":250,"height":60,"type":"text","text":"Carol B"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"fa1bec0ad411d122","fromNode":"67908d8280171d0f","fromSide":"bottom","toNode":"5a66cd1fe8d0f7a5","toSide":"top"}
+	]
 }
