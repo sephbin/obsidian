@@ -1,15 +1,20 @@
 {
 	"nodes":[
-		{"id":"b6a5435bb0c7d8e3","x":-320,"y":-460,"width":250,"height":60,"type":"text","text":"Little Brother"},
-		{"id":"67908d8280171d0f","type":"text","text":"Mavis Preston","x":-20,"y":-460,"width":250,"height":60},
-		{"id":"4fc9ff31d8d80de5","x":-320,"y":-590,"width":250,"height":60,"type":"text","text":"Wife"},
-		{"id":"b7181ba6216fc7e0","type":"text","text":"Thaddeus Preston","x":-20,"y":-590,"width":250,"height":60},
-		{"id":"2c6647284eef59ed","x":-320,"y":-340,"width":250,"height":60,"type":"text","text":"Little Sister"},
-		{"id":"8f79f60fc83c6de0","type":"text","text":"Milford Millard III (Jr.)","x":460,"y":-590,"width":250,"height":60},
-		{"id":"886541724911b9b7","type":"text","text":"Bobby Godard","x":460,"y":-700,"width":250,"height":60},
-		{"id":"5a66cd1fe8d0f7a5","x":-20,"y":-310,"width":250,"height":60,"type":"text","text":"Carol B"}
+		{"id":"8f79f60fc83c6de0","type":"text","text":"Milford Millard III (Jr.)","x":1340,"y":-620,"width":250,"height":60},
+		{"id":"886541724911b9b7","type":"text","text":"Bobby Godard","x":1340,"y":-730,"width":250,"height":60},
+		{"id":"a89ad8d7425e53d1","type":"file","file":"Mavis Preston.md","x":540,"y":-80,"width":250,"height":100},
+		{"id":"5a66cd1fe8d0f7a5","type":"text","text":"Carol B","x":540,"y":100,"width":250,"height":60},
+		{"id":"4fc9ff31d8d80de5","type":"text","text":"Wife","x":-860,"y":-820,"width":250,"height":60},
+		{"id":"b6a5435bb0c7d8e3","type":"text","text":"Little Brother","x":-860,"y":-720,"width":250,"height":60},
+		{"id":"2c6647284eef59ed","type":"text","text":"Little Sister","x":-860,"y":-620,"width":250,"height":60},
+		{"id":"407c41a8d7d3c26b","type":"file","file":"Mavis Preston.md","x":-500,"y":-820,"width":250,"height":100},
+		{"id":"b7181ba6216fc7e0","type":"text","text":"Thaddeus Preston","x":-140,"y":-800,"width":250,"height":60}
 	],
 	"edges":[
-		{"id":"fa1bec0ad411d122","fromNode":"67908d8280171d0f","fromSide":"bottom","toNode":"5a66cd1fe8d0f7a5","toSide":"top"}
+		{"id":"fa1bec0ad411d122","fromNode":"a89ad8d7425e53d1","fromSide":"bottom","toNode":"5a66cd1fe8d0f7a5","toSide":"top"},
+		{"id":"0a96857d7bc9c6f3","fromNode":"407c41a8d7d3c26b","fromSide":"right","toNode":"b7181ba6216fc7e0","toSide":"left"},
+		{"id":"e225d0e58b6cad4f","fromNode":"407c41a8d7d3c26b","fromSide":"left","toNode":"4fc9ff31d8d80de5","toSide":"right"},
+		{"id":"3189e3b4a7107f1b","fromNode":"407c41a8d7d3c26b","fromSide":"left","toNode":"b6a5435bb0c7d8e3","toSide":"right"},
+		{"id":"09e72535311ffd06","fromNode":"407c41a8d7d3c26b","fromSide":"left","toNode":"2c6647284eef59ed","toSide":"right"}
 	]
 }
