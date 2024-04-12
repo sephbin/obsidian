@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"c1b72c6358b4460a","x":1757,"y":-2315,"width":250,"height":60,"type":"text","text":""},
 		{"id":"a89ad8d7425e53d1","type":"file","file":"GM - Campaigns/Through the Murky Veil/Mavis Preston.md","x":540,"y":-80,"width":250,"height":100},
 		{"id":"5a66cd1fe8d0f7a5","type":"text","text":"Carol B","x":540,"y":100,"width":250,"height":60},
 		{"id":"4fc9ff31d8d80de5","type":"text","text":"Wife","x":-860,"y":-820,"width":250,"height":60},
@@ -27,7 +28,9 @@
 		{"id":"f0f52cf316069b3d","type":"text","text":"Other Investigator","x":960,"y":-2478,"width":250,"height":60},
 		{"id":"955495ca9ac3bea9","type":"text","text":"[[Carol Bullmore]] House","x":1323,"y":-2040,"width":250,"height":60},
 		{"id":"57dc5c74b2d66210","type":"text","text":"Family Planning League Office","x":960,"y":-2220,"width":285,"height":60},
-		{"id":"e7836f66dd3fc3c6","x":1323,"y":-1840,"width":250,"height":60,"type":"text","text":"?? Shipyard"}
+		{"id":"e7836f66dd3fc3c6","type":"text","text":"?? Shipyard","x":1323,"y":-1840,"width":250,"height":60},
+		{"id":"a01460f33045f253","type":"text","text":"Deep Crawler","x":1998,"y":-1838,"width":250,"height":58},
+		{"id":"8972dcf7ee539c72","type":"text","text":"NY...","x":745,"y":-1600,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"fa1bec0ad411d122","fromNode":"a89ad8d7425e53d1","fromSide":"bottom","toNode":"5a66cd1fe8d0f7a5","toSide":"top"},
@@ -48,9 +51,9 @@
 		{"id":"0ba58eb8bdbd59cd","fromNode":"b7dc1ea1d5da5e12","fromSide":"bottom","toNode":"3a2b39b6eef71e78","toSide":"top","color":"5"},
 		{"id":"054d886355189a78","fromNode":"b7dc1ea1d5da5e12","fromSide":"bottom","toNode":"f0f52cf316069b3d","toSide":"top","color":"2"},
 		{"id":"146bc9a213fa4b78","fromNode":"b7dc1ea1d5da5e12","fromSide":"bottom","toNode":"8e12325cf3c0f730","toSide":"top","color":"5"},
-		{"id":"3aad329ac68356ad","fromNode":"8e12325cf3c0f730","fromSide":"bottom","toNode":"7f955d6e4e8fd1a3","toSide":"top"},
-		{"id":"bd842a3df658543b","fromNode":"7f955d6e4e8fd1a3","fromSide":"bottom","toNode":"fa44194bd23ab405","toSide":"top","fromEnd":"arrow"},
-		{"id":"6e5c2f2e724edb69","fromNode":"57dc5c74b2d66210","fromSide":"right","toNode":"fa44194bd23ab405","toSide":"left","fromEnd":"arrow"},
+		{"id":"3aad329ac68356ad","fromNode":"8e12325cf3c0f730","fromSide":"bottom","toNode":"7f955d6e4e8fd1a3","toSide":"top","color":"5"},
+		{"id":"bd842a3df658543b","fromNode":"7f955d6e4e8fd1a3","fromSide":"bottom","toNode":"fa44194bd23ab405","toSide":"top","fromEnd":"arrow","color":"5"},
+		{"id":"6e5c2f2e724edb69","fromNode":"57dc5c74b2d66210","fromSide":"right","toNode":"fa44194bd23ab405","toSide":"left","fromEnd":"arrow","color":"5"},
 		{"id":"3c5695bcb44eb0e9","fromNode":"7f955d6e4e8fd1a3","fromSide":"left","toNode":"57dc5c74b2d66210","toSide":"top","color":"5"},
 		{"id":"3e05b75de2dea345","fromNode":"be8227c5ffa4c1d7","fromSide":"bottom","toNode":"f0f52cf316069b3d","toSide":"top","color":"2"},
 		{"id":"3ae404f8a4108d74","fromNode":"3f47e3c295a5c3bf","fromSide":"bottom","toNode":"4489569005da9edd","toSide":"top","color":"5"},
@@ -64,11 +67,15 @@
 		{"id":"92f52757f3303324","fromNode":"be8227c5ffa4c1d7","fromSide":"bottom","toNode":"57dc5c74b2d66210","toSide":"top","color":"1"},
 		{"id":"9b1765823d93d42a","fromNode":"a34a9c86874f28bc","fromSide":"bottom","toNode":"3f47e3c295a5c3bf","toSide":"top","color":"5"},
 		{"id":"f9056a52dc2aa424","fromNode":"3a2b39b6eef71e78","fromSide":"right","toNode":"4489569005da9edd","toSide":"left","fromEnd":"arrow","color":"5"},
-		{"id":"1cc10163475befbc","fromNode":"fa44194bd23ab405","fromSide":"bottom","toNode":"955495ca9ac3bea9","toSide":"top"},
+		{"id":"1cc10163475befbc","fromNode":"fa44194bd23ab405","fromSide":"bottom","toNode":"955495ca9ac3bea9","toSide":"top","color":"5"},
 		{"id":"29ef4e5e2dfc85f8","fromNode":"f0f52cf316069b3d","fromSide":"right","toNode":"955495ca9ac3bea9","toSide":"right","color":"1"},
 		{"id":"b86a810cec413d06","fromNode":"57dc5c74b2d66210","fromSide":"bottom","toNode":"955495ca9ac3bea9","toSide":"left","color":"1"},
 		{"id":"71c3b644de478eef","fromNode":"f0f52cf316069b3d","fromSide":"left","toNode":"66529aa3c48c08ba","toSide":"right","color":"1"},
 		{"id":"bde96ab5c7089113","fromNode":"4489569005da9edd","fromSide":"bottom","toNode":"7f955d6e4e8fd1a3","toSide":"right","color":"1"},
-		{"id":"9e1736a38cd54ae3","fromNode":"955495ca9ac3bea9","fromSide":"bottom","toNode":"e7836f66dd3fc3c6","toSide":"top"}
+		{"id":"9e1736a38cd54ae3","fromNode":"955495ca9ac3bea9","fromSide":"bottom","toNode":"e7836f66dd3fc3c6","toSide":"top","color":"5"},
+		{"id":"b117207fe7d0ee8d","fromNode":"f0f52cf316069b3d","fromSide":"right","toNode":"a01460f33045f253","toSide":"left","color":"4"},
+		{"id":"b749d2df89c36958","fromNode":"e7836f66dd3fc3c6","fromSide":"right","toNode":"a01460f33045f253","toSide":"left","color":"5"},
+		{"id":"5f83a70e259796cc","fromNode":"955495ca9ac3bea9","fromSide":"bottom","toNode":"8972dcf7ee539c72","toSide":"top","color":"5"},
+		{"id":"2374695bd6d7e496","fromNode":"57dc5c74b2d66210","fromSide":"bottom","toNode":"8972dcf7ee539c72","toSide":"top","color":"5"}
 	]
 }
