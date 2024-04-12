@@ -1,20 +1,30 @@
 {
 	"nodes":[
-		{"id":"8f79f60fc83c6de0","type":"text","text":"Milford Millard III (Jr.)","x":1340,"y":-620,"width":250,"height":60},
-		{"id":"886541724911b9b7","type":"text","text":"Bobby Godard","x":1340,"y":-730,"width":250,"height":60},
-		{"id":"a89ad8d7425e53d1","type":"file","file":"Mavis Preston.md","x":540,"y":-80,"width":250,"height":100},
+		{"id":"a89ad8d7425e53d1","type":"file","file":"GM - Campaigns/Through the Murky Veil/Mavis Preston.md","x":540,"y":-80,"width":250,"height":100},
 		{"id":"5a66cd1fe8d0f7a5","type":"text","text":"Carol B","x":540,"y":100,"width":250,"height":60},
 		{"id":"4fc9ff31d8d80de5","type":"text","text":"Wife","x":-860,"y":-820,"width":250,"height":60},
 		{"id":"b6a5435bb0c7d8e3","type":"text","text":"Little Brother","x":-860,"y":-720,"width":250,"height":60},
 		{"id":"2c6647284eef59ed","type":"text","text":"Little Sister","x":-860,"y":-620,"width":250,"height":60},
-		{"id":"407c41a8d7d3c26b","type":"file","file":"Mavis Preston.md","x":-500,"y":-820,"width":250,"height":100},
-		{"id":"b7181ba6216fc7e0","type":"text","text":"Thaddeus Preston","x":-140,"y":-800,"width":250,"height":60}
+		{"id":"407c41a8d7d3c26b","type":"file","file":"GM - Campaigns/Through the Murky Veil/Mavis Preston.md","x":-500,"y":-820,"width":250,"height":100},
+		{"id":"b7181ba6216fc7e0","type":"text","text":"Thaddeus Preston","x":-115,"y":-800,"width":250,"height":60},
+		{"id":"886541724911b9b7","type":"text","text":"Bobby Godard","x":-265,"y":-1280,"width":250,"height":60},
+		{"id":"8f79f60fc83c6de0","type":"text","text":"Milford Millard III (Jr.)","x":35,"y":-1280,"width":250,"height":60},
+		{"id":"a4a590ce944f5684","x":1666,"y":-800,"width":250,"height":60,"type":"text","text":"Best Freind"},
+		{"id":"13d6be3f3477077c","x":1666,"y":-420,"width":250,"height":60,"type":"text","text":"Other Friend"},
+		{"id":"b856154c2c767ef5","type":"file","file":"GM - Campaigns/Through the Murky Veil/Mavis Preston.md","x":1200,"y":-800,"width":250,"height":100},
+		{"id":"8082a49c91732c7e","x":1666,"y":-590,"width":250,"height":60,"type":"text","text":"Bradley Dauterive"}
 	],
 	"edges":[
 		{"id":"fa1bec0ad411d122","fromNode":"a89ad8d7425e53d1","fromSide":"bottom","toNode":"5a66cd1fe8d0f7a5","toSide":"top"},
 		{"id":"0a96857d7bc9c6f3","fromNode":"407c41a8d7d3c26b","fromSide":"right","toNode":"b7181ba6216fc7e0","toSide":"left"},
 		{"id":"e225d0e58b6cad4f","fromNode":"407c41a8d7d3c26b","fromSide":"left","toNode":"4fc9ff31d8d80de5","toSide":"right"},
 		{"id":"3189e3b4a7107f1b","fromNode":"407c41a8d7d3c26b","fromSide":"left","toNode":"b6a5435bb0c7d8e3","toSide":"right"},
-		{"id":"09e72535311ffd06","fromNode":"407c41a8d7d3c26b","fromSide":"left","toNode":"2c6647284eef59ed","toSide":"right"}
+		{"id":"09e72535311ffd06","fromNode":"407c41a8d7d3c26b","fromSide":"left","toNode":"2c6647284eef59ed","toSide":"right"},
+		{"id":"96721e7c519dfa2f","fromNode":"886541724911b9b7","fromSide":"bottom","toNode":"b7181ba6216fc7e0","toSide":"top"},
+		{"id":"c48ff62a492d3124","fromNode":"8f79f60fc83c6de0","fromSide":"bottom","toNode":"b7181ba6216fc7e0","toSide":"top"},
+		{"id":"383db168488563e3","fromNode":"b856154c2c767ef5","fromSide":"right","toNode":"a4a590ce944f5684","toSide":"left"},
+		{"id":"d151f60e604550d5","fromNode":"b856154c2c767ef5","fromSide":"right","toNode":"8082a49c91732c7e","toSide":"left"},
+		{"id":"af0e8dfd943d71f1","fromNode":"b856154c2c767ef5","fromSide":"right","toNode":"13d6be3f3477077c","toSide":"left"},
+		{"id":"d4e7eb1eaadbd6c4","fromNode":"5a66cd1fe8d0f7a5","fromSide":"right","toNode":"13d6be3f3477077c","toSide":"left"}
 	]
 }
