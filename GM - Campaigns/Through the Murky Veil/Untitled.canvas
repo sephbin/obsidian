@@ -12,7 +12,15 @@
 		{"id":"a4a590ce944f5684","x":1666,"y":-800,"width":250,"height":60,"type":"text","text":"Best Freind"},
 		{"id":"13d6be3f3477077c","x":1666,"y":-420,"width":250,"height":60,"type":"text","text":"Other Friend"},
 		{"id":"b856154c2c767ef5","type":"file","file":"GM - Campaigns/Through the Murky Veil/Mavis Preston.md","x":1200,"y":-800,"width":250,"height":100},
-		{"id":"8082a49c91732c7e","x":1666,"y":-590,"width":250,"height":60,"type":"text","text":"Bradley Dauterive"}
+		{"id":"8082a49c91732c7e","x":1666,"y":-590,"width":250,"height":60,"type":"text","text":"Bradley Dauterive"},
+		{"id":"a34a9c86874f28bc","x":437,"y":-2294,"width":303,"height":50,"type":"text","text":"Meet with [[Thaddeus Preston]]"},
+		{"id":"be8227c5ffa4c1d7","x":464,"y":-2120,"width":250,"height":60,"type":"text","text":"Investigate Room"},
+		{"id":"3f47e3c295a5c3bf","x":820,"y":-2120,"width":250,"height":60,"type":"text","text":"Talk with Brother"},
+		{"id":"b7dc1ea1d5da5e12","x":100,"y":-2115,"width":250,"height":50,"type":"text","text":"Talk with Mother"},
+		{"id":"4489569005da9edd","x":464,"y":-1900,"width":250,"height":60,"type":"text","text":"Arkham Clubs"},
+		{"id":"18ad39ab22581206","x":816,"y":-1900,"width":259,"height":60,"type":"text","text":"Miskatonic University Club"},
+		{"id":"3a2b39b6eef71e78","x":-215,"y":-1900,"width":250,"height":60,"type":"text","text":"Best Friend"},
+		{"id":"f0f52cf316069b3d","x":160,"y":-1930,"width":250,"height":60,"type":"text","text":"Other Investigator"}
 	],
 	"edges":[
 		{"id":"fa1bec0ad411d122","fromNode":"a89ad8d7425e53d1","fromSide":"bottom","toNode":"5a66cd1fe8d0f7a5","toSide":"top"},
@@ -25,6 +33,15 @@
 		{"id":"383db168488563e3","fromNode":"b856154c2c767ef5","fromSide":"right","toNode":"a4a590ce944f5684","toSide":"left"},
 		{"id":"d151f60e604550d5","fromNode":"b856154c2c767ef5","fromSide":"right","toNode":"8082a49c91732c7e","toSide":"left"},
 		{"id":"af0e8dfd943d71f1","fromNode":"b856154c2c767ef5","fromSide":"right","toNode":"13d6be3f3477077c","toSide":"left"},
-		{"id":"d4e7eb1eaadbd6c4","fromNode":"5a66cd1fe8d0f7a5","fromSide":"right","toNode":"13d6be3f3477077c","toSide":"left"}
+		{"id":"d4e7eb1eaadbd6c4","fromNode":"5a66cd1fe8d0f7a5","fromSide":"right","toNode":"13d6be3f3477077c","toSide":"left"},
+		{"id":"ab378d0e90093910","fromNode":"a34a9c86874f28bc","fromSide":"bottom","toNode":"be8227c5ffa4c1d7","toSide":"top"},
+		{"id":"cf76306419dfe238","fromNode":"a34a9c86874f28bc","fromSide":"bottom","toNode":"3f47e3c295a5c3bf","toSide":"top"},
+		{"id":"3c28b3ae412cdd77","fromNode":"a34a9c86874f28bc","fromSide":"bottom","toNode":"b7dc1ea1d5da5e12","toSide":"top"},
+		{"id":"3ae404f8a4108d74","fromNode":"3f47e3c295a5c3bf","fromSide":"bottom","toNode":"4489569005da9edd","toSide":"top"},
+		{"id":"f98831b9747622b8","fromNode":"3f47e3c295a5c3bf","fromSide":"bottom","toNode":"18ad39ab22581206","toSide":"top"},
+		{"id":"cc3add6ac229b870","fromNode":"4489569005da9edd","fromSide":"right","toNode":"18ad39ab22581206","toSide":"left"},
+		{"id":"0ba58eb8bdbd59cd","fromNode":"b7dc1ea1d5da5e12","fromSide":"bottom","toNode":"3a2b39b6eef71e78","toSide":"top"},
+		{"id":"9183e099a7d286ed","fromNode":"a34a9c86874f28bc","fromSide":"bottom","toNode":"f0f52cf316069b3d","toSide":"top"},
+		{"id":"054d886355189a78","fromNode":"b7dc1ea1d5da5e12","fromSide":"bottom","toNode":"f0f52cf316069b3d","toSide":"top"}
 	]
 }
