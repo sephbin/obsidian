@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"57dc5c74b2d66210","x":584,"y":-2378,"width":250,"height":60,"type":"text","text":""},
 		{"id":"a89ad8d7425e53d1","type":"file","file":"GM - Campaigns/Through the Murky Veil/Mavis Preston.md","x":540,"y":-80,"width":250,"height":100},
 		{"id":"5a66cd1fe8d0f7a5","type":"text","text":"Carol B","x":540,"y":100,"width":250,"height":60},
 		{"id":"4fc9ff31d8d80de5","type":"text","text":"Wife","x":-860,"y":-820,"width":250,"height":60},
@@ -9,18 +10,21 @@
 		{"id":"b7181ba6216fc7e0","type":"text","text":"Thaddeus Preston","x":-115,"y":-800,"width":250,"height":60},
 		{"id":"886541724911b9b7","type":"text","text":"Bobby Godard","x":-265,"y":-1280,"width":250,"height":60},
 		{"id":"8f79f60fc83c6de0","type":"text","text":"Milford Millard III (Jr.)","x":35,"y":-1280,"width":250,"height":60},
-		{"id":"a4a590ce944f5684","x":1666,"y":-800,"width":250,"height":60,"type":"text","text":"Best Freind"},
-		{"id":"13d6be3f3477077c","x":1666,"y":-420,"width":250,"height":60,"type":"text","text":"Other Friend"},
+		{"id":"a4a590ce944f5684","type":"text","text":"Best Freind","x":1666,"y":-800,"width":250,"height":60},
+		{"id":"13d6be3f3477077c","type":"text","text":"Other Friend","x":1666,"y":-420,"width":250,"height":60},
 		{"id":"b856154c2c767ef5","type":"file","file":"GM - Campaigns/Through the Murky Veil/Mavis Preston.md","x":1200,"y":-800,"width":250,"height":100},
-		{"id":"8082a49c91732c7e","x":1666,"y":-590,"width":250,"height":60,"type":"text","text":"Bradley Dauterive"},
-		{"id":"a34a9c86874f28bc","x":437,"y":-2294,"width":303,"height":50,"type":"text","text":"Meet with [[Thaddeus Preston]]"},
-		{"id":"be8227c5ffa4c1d7","x":464,"y":-2120,"width":250,"height":60,"type":"text","text":"Investigate Room"},
-		{"id":"3f47e3c295a5c3bf","x":820,"y":-2120,"width":250,"height":60,"type":"text","text":"Talk with Brother"},
-		{"id":"b7dc1ea1d5da5e12","x":100,"y":-2115,"width":250,"height":50,"type":"text","text":"Talk with Mother"},
-		{"id":"4489569005da9edd","x":464,"y":-1900,"width":250,"height":60,"type":"text","text":"Arkham Clubs"},
-		{"id":"18ad39ab22581206","x":816,"y":-1900,"width":259,"height":60,"type":"text","text":"Miskatonic University Club"},
-		{"id":"3a2b39b6eef71e78","x":-215,"y":-1900,"width":250,"height":60,"type":"text","text":"Best Friend"},
-		{"id":"f0f52cf316069b3d","x":160,"y":-1930,"width":250,"height":60,"type":"text","text":"Other Investigator"}
+		{"id":"8082a49c91732c7e","type":"text","text":"Bradley Dauterive","x":1666,"y":-590,"width":250,"height":60},
+		{"id":"a34a9c86874f28bc","type":"text","text":"Meet with [[Thaddeus Preston]]","x":1147,"y":-3160,"width":303,"height":50},
+		{"id":"be8227c5ffa4c1d7","type":"text","text":"Investigate Room","x":1174,"y":-2986,"width":250,"height":60},
+		{"id":"4489569005da9edd","type":"text","text":"Arkham Clubs","x":1174,"y":-2766,"width":250,"height":60},
+		{"id":"18ad39ab22581206","type":"text","text":"Miskatonic University Club","x":1526,"y":-2766,"width":259,"height":60},
+		{"id":"3f47e3c295a5c3bf","type":"text","text":"Talk with Brother","x":1530,"y":-2986,"width":250,"height":60},
+		{"id":"8e12325cf3c0f730","type":"text","text":"Seance","x":1142,"y":-2508,"width":250,"height":60},
+		{"id":"7f955d6e4e8fd1a3","type":"text","text":"Other Friend","x":1142,"y":-2366,"width":250,"height":60},
+		{"id":"3a2b39b6eef71e78","type":"text","text":"Best Friend","x":495,"y":-2766,"width":250,"height":60},
+		{"id":"b7dc1ea1d5da5e12","type":"text","text":"Talk with Mother","x":810,"y":-2981,"width":250,"height":50},
+		{"id":"f0f52cf316069b3d","type":"text","text":"Other Investigator","x":870,"y":-2766,"width":250,"height":60},
+		{"id":"fa44194bd23ab405","type":"text","text":"[[Carol Bullmore]] Office","x":1142,"y":-2220,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"fa1bec0ad411d122","fromNode":"a89ad8d7425e53d1","fromSide":"bottom","toNode":"5a66cd1fe8d0f7a5","toSide":"top"},
@@ -42,6 +46,9 @@
 		{"id":"cc3add6ac229b870","fromNode":"4489569005da9edd","fromSide":"right","toNode":"18ad39ab22581206","toSide":"left"},
 		{"id":"0ba58eb8bdbd59cd","fromNode":"b7dc1ea1d5da5e12","fromSide":"bottom","toNode":"3a2b39b6eef71e78","toSide":"top"},
 		{"id":"9183e099a7d286ed","fromNode":"a34a9c86874f28bc","fromSide":"bottom","toNode":"f0f52cf316069b3d","toSide":"top"},
-		{"id":"054d886355189a78","fromNode":"b7dc1ea1d5da5e12","fromSide":"bottom","toNode":"f0f52cf316069b3d","toSide":"top"}
+		{"id":"054d886355189a78","fromNode":"b7dc1ea1d5da5e12","fromSide":"bottom","toNode":"f0f52cf316069b3d","toSide":"top"},
+		{"id":"146bc9a213fa4b78","fromNode":"b7dc1ea1d5da5e12","fromSide":"bottom","toNode":"8e12325cf3c0f730","toSide":"top"},
+		{"id":"3aad329ac68356ad","fromNode":"8e12325cf3c0f730","fromSide":"bottom","toNode":"7f955d6e4e8fd1a3","toSide":"top"},
+		{"id":"bd842a3df658543b","fromNode":"7f955d6e4e8fd1a3","fromSide":"bottom","toNode":"fa44194bd23ab405","toSide":"top"}
 	]
 }
