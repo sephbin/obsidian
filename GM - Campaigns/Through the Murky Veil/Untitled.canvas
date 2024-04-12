@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"c1b72c6358b4460a","x":1757,"y":-2315,"width":250,"height":60,"type":"text","text":""},
 		{"id":"a89ad8d7425e53d1","type":"file","file":"GM - Campaigns/Through the Murky Veil/Mavis Preston.md","x":540,"y":-80,"width":250,"height":100},
 		{"id":"5a66cd1fe8d0f7a5","type":"text","text":"Carol B","x":540,"y":100,"width":250,"height":60},
 		{"id":"4fc9ff31d8d80de5","type":"text","text":"Wife","x":-860,"y":-820,"width":250,"height":60},
