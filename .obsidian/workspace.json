@@ -11,14 +11,11 @@
             "id": "75c7e1bbfd75e05d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "GM - Campaigns/Through the Murky Veil/Untitled.canvas",
-                "viewState": {
-                  "x": 1272.9586828717047,
-                  "y": -3150.1712149762525,
-                  "zoom": -0.9532878928180768
-                }
+                "file": "GM - Campaigns/Through the Murky Veil/Bobby Godard starting information.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -136,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM - Campaigns/Through the Murky Veil/Untitled.canvas",
+                "file": "GM - Campaigns/Through the Murky Veil/Bobby Godard starting information.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GM - Campaigns/Through the Murky Veil/Untitled.canvas",
+                "file": "GM - Campaigns/Through the Murky Veil/Bobby Godard starting information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GM - Campaigns/Through the Murky Veil/Untitled.canvas"
+                "file": "GM - Campaigns/Through the Murky Veil/Bobby Godard starting information.md"
               }
             }
           },
@@ -211,8 +208,9 @@
   },
   "active": "75c7e1bbfd75e05d",
   "lastOpenFiles": [
-    "GM - Campaigns/Through the Murky Veil/Thaddeus Preston.md",
     "GM - Campaigns/Through the Murky Veil/Untitled.canvas",
+    "GM - Campaigns/Through the Murky Veil/Bobby Godard starting information.md",
+    "GM - Campaigns/Through the Murky Veil/Thaddeus Preston.md",
     "GM - Campaigns/Through the Murky Veil/Elizabeth Garcia.md",
     "GM - Campaigns/Through the Murky Veil/Geraldine Milton.md",
     "Deep Crawler.md",
@@ -240,7 +238,6 @@
     "Systems/Call of Cthulhu/Miskatonic Repository Additional Guidelines.md",
     "GM - Campaigns/The Pretty Things/Ideas.md",
     "GM - Campaigns/The Pretty Things/Invite.md",
-    "GM - Campaigns/The Pretty Things/Session 0 Checklist.md",
     "Systems/Untitled.canvas",
     "GM - Campaigns/The Pretty Things/Pretty Things Map - Solo.png",
     "GM - Campaigns/The Pretty Things/Moonlight Serenade.mp3",
