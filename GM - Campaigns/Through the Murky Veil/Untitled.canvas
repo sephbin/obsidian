@@ -17,7 +17,6 @@
 		{"id":"be8227c5ffa4c1d7","type":"text","text":"Investigate Room","x":1171,"y":-2986,"width":250,"height":60},
 		{"id":"3a2b39b6eef71e78","type":"text","text":"Best Friend","x":495,"y":-2766,"width":250,"height":60},
 		{"id":"b7dc1ea1d5da5e12","type":"text","text":"Talk with [[Veronica Preston]]","x":810,"y":-2981,"width":250,"height":50},
-		{"id":"3f47e3c295a5c3bf","type":"text","text":"Talk with Brother","x":1748,"y":-2981,"width":250,"height":60},
 		{"id":"66529aa3c48c08ba","type":"text","text":"[[Bradley Dauterive]]","x":495,"y":-2478,"width":250,"height":60},
 		{"id":"4489569005da9edd","type":"text","text":"Arkham Clubs","x":1560,"y":-2736,"width":250,"height":60},
 		{"id":"18ad39ab22581206","type":"text","text":"Miskatonic University Club","x":1920,"y":-2736,"width":259,"height":60},
@@ -30,7 +29,8 @@
 		{"id":"8972dcf7ee539c72","type":"text","text":"NY...","x":745,"y":-1600,"width":250,"height":60},
 		{"id":"e7836f66dd3fc3c6","type":"text","text":"Solitude Bay Shipyard","x":1300,"y":-1780,"width":250,"height":60},
 		{"id":"955495ca9ac3bea9","type":"text","text":"[[Carol Bullmore]] House","x":1300,"y":-1980,"width":250,"height":60},
-		{"id":"9f11fa816aaf7256","x":1998,"y":-2336,"width":250,"height":60,"type":"text","text":"Ambush"}
+		{"id":"9f11fa816aaf7256","type":"text","text":"Ambush","x":1998,"y":-2336,"width":250,"height":60},
+		{"id":"3f47e3c295a5c3bf","type":"text","text":"Talk with [[Henry Preston]]","x":1740,"y":-2986,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"fa1bec0ad411d122","fromNode":"a89ad8d7425e53d1","fromSide":"bottom","toNode":"5a66cd1fe8d0f7a5","toSide":"top"},
