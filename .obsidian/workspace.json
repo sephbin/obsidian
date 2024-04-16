@@ -11,14 +11,11 @@
             "id": "75c7e1bbfd75e05d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "GM - Campaigns/Through the Murky Veil/Untitled.canvas",
-                "viewState": {
-                  "x": 1002.1123856341575,
-                  "y": -2489.253789440368,
-                  "zoom": 0.6749046260339542
-                }
+                "file": "GM - Campaigns/Through the Murky Veil/Mavis Preston's Room.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -136,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM - Campaigns/Through the Murky Veil/Untitled.canvas",
+                "file": "GM - Campaigns/Through the Murky Veil/Mavis Preston's Room.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GM - Campaigns/Through the Murky Veil/Untitled.canvas",
+                "file": "GM - Campaigns/Through the Murky Veil/Mavis Preston's Room.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GM - Campaigns/Through the Murky Veil/Untitled.canvas"
+                "file": "GM - Campaigns/Through the Murky Veil/Mavis Preston's Room.md"
               }
             }
           },
@@ -211,8 +208,8 @@
   },
   "active": "75c7e1bbfd75e05d",
   "lastOpenFiles": [
-    "GM - Campaigns/Through the Murky Veil/Mavis Preston's Room.md",
     "GM - Campaigns/Through the Murky Veil/Untitled.canvas",
+    "GM - Campaigns/Through the Murky Veil/Mavis Preston's Room.md",
     "GM - Campaigns/Through the Murky Veil/Bobby Godard starting information.md",
     "GM - Campaigns/Through the Murky Veil/Thaddeus Preston.md",
     "GM - Campaigns/Through the Murky Veil/Elizabeth Garcia.md",
