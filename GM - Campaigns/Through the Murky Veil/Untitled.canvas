@@ -22,7 +22,7 @@
 		{"id":"a34a9c86874f28bc","type":"text","text":"Meet with [[Thaddeus Preston]]","x":980,"y":-3880,"width":303,"height":50},
 		{"id":"be8227c5ffa4c1d7","type":"text","text":"Investigate Room","x":1006,"y":-3706,"width":250,"height":60},
 		{"id":"b7dc1ea1d5da5e12","type":"text","text":"Talk with mother","x":645,"y":-3701,"width":250,"height":50},
-		{"id":"4489569005da9edd","type":"text","text":"Arkham Clubs","x":1395,"y":-3456,"width":250,"height":60},
+		{"id":"4489569005da9edd","type":"text","text":"Arkham Clubs - The Corner Review","x":1395,"y":-3456,"width":265,"height":60},
 		{"id":"18ad39ab22581206","type":"text","text":"Miskatonic University Club","x":1755,"y":-3456,"width":259,"height":60},
 		{"id":"3f47e3c295a5c3bf","type":"text","text":"Talk with younger brother","x":1575,"y":-3706,"width":250,"height":60},
 		{"id":"4c6056aaae50ea16","type":"file","file":"Henry Preston.md","x":2195,"y":-3876,"width":400,"height":400},

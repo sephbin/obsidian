@@ -15,9 +15,9 @@
               "state": {
                 "file": "GM - Campaigns/Through the Murky Veil/Untitled.canvas",
                 "viewState": {
-                  "x": 1203.1900527633602,
-                  "y": -3472.8105502162093,
-                  "zoom": -0.3944761767965274
+                  "x": 1477.173159077155,
+                  "y": -3513.433015268399,
+                  "zoom": -0.42364289432582347
                 }
               }
             }
@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "eb2f03f0bf4e0b9a",
@@ -197,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
