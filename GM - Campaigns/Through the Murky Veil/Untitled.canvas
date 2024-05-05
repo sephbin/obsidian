@@ -39,7 +39,8 @@
 		{"id":"57dc5c74b2d66210","type":"text","text":"Family Planning Guardians","x":795,"y":-2530,"width":285,"height":60},
 		{"id":"7f955d6e4e8fd1a3","type":"text","text":"Talk with other friend","x":1158,"y":-2900,"width":250,"height":60},
 		{"id":"2e14b00ade517560","type":"file","file":"GM - Campaigns/Through the Murky Veil/Elizabeth Garcia.md","x":2195,"y":-2900,"width":400,"height":400},
-		{"id":"5461e432eca917e2","type":"file","file":"GM - Campaigns/Through the Murky Veil/Thaddeus Preston.md","x":2195,"y":-4400,"width":400,"height":400}
+		{"id":"5461e432eca917e2","type":"file","file":"GM - Campaigns/Through the Murky Veil/Thaddeus Preston.md","x":2195,"y":-4400,"width":400,"height":400},
+		{"id":"c064f394a4184d39","x":-868,"y":-3041,"width":250,"height":60,"type":"text","text":"CLONE"}
 	],
 	"edges":[
 		{"id":"fa1bec0ad411d122","fromNode":"a89ad8d7425e53d1","fromSide":"bottom","toNode":"5a66cd1fe8d0f7a5","toSide":"top"},
@@ -95,6 +96,7 @@
 		{"id":"b8dd272a7464c430","fromNode":"a01460f33045f253","fromSide":"right","toNode":"f5667c13720ec006","toSide":"left"},
 		{"id":"4e832fec58a75e24","fromNode":"dab76bd123ae9f35","fromSide":"right","toNode":"3a2b39b6eef71e78","toSide":"left"},
 		{"id":"bde1b6d185046e95","fromNode":"2e14b00ade517560","fromSide":"left","toNode":"7f955d6e4e8fd1a3","toSide":"right"},
-		{"id":"aa66fb8397e13ae5","fromNode":"5461e432eca917e2","fromSide":"left","toNode":"a34a9c86874f28bc","toSide":"right"}
+		{"id":"aa66fb8397e13ae5","fromNode":"5461e432eca917e2","fromSide":"left","toNode":"a34a9c86874f28bc","toSide":"right"},
+		{"id":"10b5448220182dc1","fromNode":"66529aa3c48c08ba","fromSide":"bottom","toNode":"c064f394a4184d39","toSide":"top"}
 	]
 }

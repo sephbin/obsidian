@@ -15,9 +15,9 @@
               "state": {
                 "file": "GM - Campaigns/Through the Murky Veil/Untitled.canvas",
                 "viewState": {
-                  "x": 1289.7075307484486,
-                  "y": -3238.089814841626,
-                  "zoom": -1.4236428943258235
+                  "x": 105.29581150362469,
+                  "y": -3161.911480423846,
+                  "zoom": -0.09030956099249032
                 }
               }
             }
@@ -70,8 +70,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lady Cassandra.md",
+                "file": "GM - Campaigns/Through the Murky Veil/Untitled.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lady Cassandra.md",
+                "file": "GM - Campaigns/Through the Murky Veil/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lady Cassandra.md"
+                "file": "GM - Campaigns/Through the Murky Veil/Untitled.canvas"
               }
             }
           },
@@ -212,8 +211,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eaa25d81d8f4afd5",
+  "active": "75c7e1bbfd75e05d",
   "lastOpenFiles": [
+    "Lady Cassandra.md",
     "GM - Campaigns/Through the Murky Veil/Untitled.canvas",
     "GM - Campaigns/Through the Murky Veil/Mavis Preston's Room.md",
     "GM - Campaigns/Through the Murky Veil/Bobby Godard starting information.md",
@@ -221,7 +221,6 @@
     "GM - Campaigns/Through the Murky Veil/Elizabeth Garcia.md",
     "GM - Campaigns/Through the Murky Veil/Geraldine Milton.md",
     "Deep Crawler.md",
-    "Lady Cassandra.md",
     "Carol Bullmore.md",
     "Harry Bosch.md",
     "Bradley Dauterive.md",
