@@ -1,0 +1,7 @@
+STR: 85
+CON: 80
+SIZ: 80
+DEX: 70
+INT: 80
+POW: 80
+APP: 85
