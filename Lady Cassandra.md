@@ -22,9 +22,13 @@ _The charcoal scratches loudly against the paper, each stroke sharp and delibera
 
 Lady Cassandra: (commanding) You, watchers in the dark, join your energy with mine. Focus your minds, your hearts, on Mavis. Feel her fear, her desperation. We must find her, we must save her.
 
-_She resumes drawing, her movements becoming more frenetic, almost violent. The shadows seem to close in tighter, the candle flames guttering._
+_She gestures to you all, reaching out her hand, people reluctantly come forward and chain hands together with her. A hand brushes past yours and holds on. The medium resumes drawing, her movements becoming more frenetic, almost violent. The shadows seem to close in tighter, the candle flames guttering. Your head is pounding, the sickly incense smoke in the air assaults your senses._
 
 Lady Cassandra: (chanting) Angel of light, reveal the truth. Angel of light, banish the dark. Angel of light, show me the way.
+
+_She shrieks with ecstasy!_
+
+Lady Cassandra: We are graced with a higher precense. Child, you curry the 
 
 _She pauses again, her breathing heavy, eyes darting around as if seeing something unseen by others._
 
