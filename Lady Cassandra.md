@@ -28,17 +28,25 @@ Lady Cassandra: (chanting) Angel of light, reveal the truth. Angel of light, ban
 
 _She shrieks with ecstasy!_
 
-Lady Cassandra: We are graced with a higher precense. Child, you curry the 
+Lady Cassandra: We are graced with a higher precense.
+
+_You see the medium looking directly into the eyes of a young lady in front of her, one of Mavis' friends._
+
+Lady Cassandra: Child! You walk in the light of a mighty angel. We are all blessed.
 
 _She pauses again, her breathing heavy, eyes darting around as if seeing something unseen by others._
 
-Lady Cassandra: (whispering urgently) I see... I see a place of confusion, a labyrinth of thoughts. Mavis... she is trapped within her own mind. Her cries echo in the silence, unheard, unanswered.
+	Make a POW roll.
+
+_In the dim lighting, amidst the incesense smoke, you make out a ghostly structure swaying above the medium and the girl. They are almost impossible to see, ropy zephyrs limned in smoke, cascading from the ceiling. For a moment the two remind you of tangled marionettes. _
+
+Lady Cassandra: I see... I see a place of confusion, a chaotic labyrinth. Mavis... she is trapped. Her cries echo in the silence of cacophony, unheard, unanswered.
 
 _She draws faster, the lines forming unsettling shapes and symbols. The air grows heavy with an oppressive silence._
 
 Lady Cassandra: (voice trembling) Guardian, reveal to us the protector. Show us the light that shields her. We must know, we must see.
 
-_The final strokes of the drawing come in a frenzied rush. Cassandra steps back, revealing a disturbing, abstract depiction of a figure surrounded by swirling, chaotic lines, a serene presence hovering above._
+_The final strokes of the drawing come in a frenzied rush. Cassandra steps back, revealing a disturbing, abstract depiction of a figure surrounded by swirling, chaotic lines, a serene abstract looping infinity hovering above._
 
 Lady Cassandra: (whispering) There... there he is. Raphael, the angel that guards her, the light that shields her. Mavis is in peril, but she is not alone.
 
