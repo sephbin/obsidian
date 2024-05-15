@@ -11,14 +11,11 @@
             "id": "75c7e1bbfd75e05d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "GM - Campaigns/Through the Murky Veil/Untitled.canvas",
-                "viewState": {
-                  "x": 1074.0635064677394,
-                  "y": -3320.658813751201,
-                  "zoom": -0.4236428943258239
-                }
+                "file": "Lady Cassandra.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -137,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM - Campaigns/Through the Murky Veil/Untitled.canvas",
+                "file": "Lady Cassandra.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -154,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GM - Campaigns/Through the Murky Veil/Untitled.canvas",
+                "file": "Lady Cassandra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GM - Campaigns/Through the Murky Veil/Untitled.canvas"
+                "file": "Lady Cassandra.md"
               }
             }
           },
@@ -213,8 +210,8 @@
   },
   "active": "75c7e1bbfd75e05d",
   "lastOpenFiles": [
-    "Lady Cassandra.md",
     "GM - Campaigns/Through the Murky Veil/Untitled.canvas",
+    "Lady Cassandra.md",
     "GM - Campaigns/Through the Murky Veil/Mavis Preston's Room.md",
     "GM - Campaigns/Through the Murky Veil/Bobby Godard starting information.md",
     "GM - Campaigns/Through the Murky Veil/Thaddeus Preston.md",
