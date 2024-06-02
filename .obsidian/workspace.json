@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM - Campaigns/Through the Murky Veil/Locations/Preston Drawing Room.md",
+                "file": "Lady Cassandra.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM - Campaigns/Through the Murky Veil/Locations/Preston Drawing Room.md",
+                "file": "Lady Cassandra.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GM - Campaigns/Through the Murky Veil/Locations/Preston Drawing Room.md",
+                "file": "Lady Cassandra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GM - Campaigns/Through the Murky Veil/Locations/Preston Drawing Room.md"
+                "file": "Lady Cassandra.md"
               }
             }
           },
@@ -198,8 +198,9 @@
   },
   "active": "9fc82dc97e1e38c2",
   "lastOpenFiles": [
-    "GM - Campaigns/Through the Murky Veil/Locations/Preston Country Estate.md",
+    "GM - Campaigns/Through the Murky Veil/Untitled.canvas",
     "GM - Campaigns/Through the Murky Veil/Locations/Preston Drawing Room.md",
+    "GM - Campaigns/Through the Murky Veil/Locations/Preston Country Estate.md",
     "Gremlin's Gremlin Law.md",
     "GM - Campaigns/Through the Murky Veil/Locations/Fencing Gym.md",
     "GM - Campaigns/Through the Murky Veil/Locations/Athletic Track.md",
@@ -208,7 +209,6 @@
     "Bradley Dauterive.md",
     "GM - Campaigns/Through the Murky Veil/Locations",
     "Lady Cassandra.md",
-    "GM - Campaigns/Through the Murky Veil/Untitled.canvas",
     "GM - Campaigns/Through the Murky Veil/Mavis Preston's Room.md",
     "GM - Campaigns/Through the Murky Veil/Bobby Godard starting information.md",
     "GM - Campaigns/Through the Murky Veil/Thaddeus Preston.md",
@@ -227,7 +227,6 @@
     "GM - Campaigns/The Pretty Things/Publish/To Publish or not to Publish.md",
     "GM - Campaigns/The Pretty Things/The Pretty Things.canvas",
     "Gold.md",
-    "GM - Campaigns/The Pretty Things/Publish/4.0_Scenes.md",
     "GM - Campaigns/The Pretty Things/Locations/_files/PrettyThings-Map.jpg",
     "GM - Campaigns/The Pretty Things/Publish",
     "Systems/Untitled.canvas",
