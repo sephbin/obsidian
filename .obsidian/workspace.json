@@ -15,8 +15,8 @@
               "state": {
                 "file": "GM - Campaigns/Through the Murky Veil/Untitled.canvas",
                 "viewState": {
-                  "x": 3766.5274429907613,
-                  "y": -2574.487463394225,
+                  "x": 1318.5274429907613,
+                  "y": -2590.487463394225,
                   "zoom": -4
                 }
               }
@@ -57,8 +57,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8ad390ee51068a0d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -197,7 +208,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "609705c381d1907b",
+  "active": "8ad390ee51068a0d",
   "lastOpenFiles": [
     "Deep Crawler.md",
     "GM - Campaigns/Through the Murky Veil/Untitled.canvas",
