@@ -62,9 +62,11 @@
             "id": "8ad390ee51068a0d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.5"
+                "file": "2024-09-18.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -135,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM - Campaigns/Through the Murky Veil/Untitled.canvas",
+                "file": "2024-09-18.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -152,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GM - Campaigns/Through the Murky Veil/Untitled.canvas",
+                "file": "2024-09-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GM - Campaigns/Through the Murky Veil/Untitled.canvas"
+                "file": "2024-09-18.md"
               }
             }
           },
@@ -210,6 +212,7 @@
   },
   "active": "8ad390ee51068a0d",
   "lastOpenFiles": [
+    "2024-09-18.md",
     "Lady Cassandra.md",
     "Harry Bosch.md",
     "Carol Bullmore.md",
