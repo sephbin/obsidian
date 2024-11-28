@@ -15,9 +15,9 @@
               "state": {
                 "file": "GM - Campaigns/Through the Murky Veil/Untitled.canvas",
                 "viewState": {
-                  "x": 1318.5274429907613,
-                  "y": -2590.487463394225,
-                  "zoom": -4
+                  "x": 698.9241025539847,
+                  "y": -769.1095021369024,
+                  "zoom": -1.061142843463194
                 }
               }
             }
@@ -70,8 +70,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-09-18.md",
+                "file": "GM - Campaigns/Through the Murky Veil/Untitled.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -154,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-09-18.md",
+                "file": "GM - Campaigns/Through the Murky Veil/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-09-18.md"
+                "file": "GM - Campaigns/Through the Murky Veil/Untitled.canvas"
               }
             }
           },
@@ -210,13 +209,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ad390ee51068a0d",
+  "active": "75c7e1bbfd75e05d",
   "lastOpenFiles": [
+    "GM - Campaigns/Through the Murky Veil/Mavis Preston's Room.md",
+    "GM - Campaigns/Through the Murky Veil/Thaddeus Preston.md",
+    "GM - Campaigns/Through the Murky Veil/Untitled.canvas",
+    "Carol Bullmore.md",
     "2024-09-18.md",
     "Lady Cassandra.md",
     "Harry Bosch.md",
-    "Carol Bullmore.md",
-    "GM - Campaigns/Through the Murky Veil/Untitled.canvas",
     "Deep Crawler.md",
     "GM - Campaigns/Through the Murky Veil/Locations/Preston Drawing Room.md",
     "GM - Campaigns/Through the Murky Veil/Locations/Preston Country Estate.md",
@@ -227,9 +228,7 @@
     "GM - Campaigns/Through the Murky Veil/Locations/Preston Tennis Court.md",
     "Bradley Dauterive.md",
     "GM - Campaigns/Through the Murky Veil/Locations",
-    "GM - Campaigns/Through the Murky Veil/Mavis Preston's Room.md",
     "GM - Campaigns/Through the Murky Veil/Bobby Godard starting information.md",
-    "GM - Campaigns/Through the Murky Veil/Thaddeus Preston.md",
     "GM - Campaigns/Through the Murky Veil/Elizabeth Garcia.md",
     "GM - Campaigns/Through the Murky Veil/Geraldine Milton.md",
     "GM - Campaigns/The Pretty Things/Publish/3.0_Timeline.md",
@@ -241,7 +240,6 @@
     "GM - Campaigns/The Pretty Things/Publish/2.0_Dramtis Personae.md",
     "GM - Campaigns/The Pretty Things/Publish/To Publish or not to Publish.md",
     "GM - Campaigns/The Pretty Things/The Pretty Things.canvas",
-    "Gold.md",
     "GM - Campaigns/The Pretty Things/Locations/_files/PrettyThings-Map.jpg",
     "GM - Campaigns/The Pretty Things/Publish",
     "Systems/Untitled.canvas",
